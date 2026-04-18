@@ -26,7 +26,14 @@ def normalize(text):
             result.append(chr(code - 0x60))
         else:
             result.append(ch)
-    return "".join(result)
+    text = "".join(result)
+    # 各種ダッシュ・ハイフン → -
+    text = re.sub(r"[‐‑‒–—―－]", "-", text)
+    # 中黒・区切り → スペース
+    text = re.sub(r"[・･•]", " ", text)
+    # 波ダッシュ統一
+    text = re.sub(r"[〜～]", "~", text)
+    return text
 
 
 def login_required(f):
