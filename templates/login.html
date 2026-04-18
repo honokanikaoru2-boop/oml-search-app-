@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ログイン — OML インフォメーション検索</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Hiragino Sans", "Yu Gothic UI", "Meiryo", sans-serif;
+    background: linear-gradient(135deg, #003e8a 0%, #0069c0 100%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .card {
+    background: white;
+    border-radius: 16px;
+    padding: 40px 36px;
+    width: 100%;
+    max-width: 380px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.25);
+    text-align: center;
+  }
+  .logo {
+    display: inline-block;
+    background: #003e8a;
+    color: white;
+    font-size: 22px;
+    font-weight: 900;
+    padding: 8px 14px;
+    border-radius: 8px;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+  }
+  .title {
+    font-size: 15px;
+    color: #445;
+    margin-bottom: 28px;
+    line-height: 1.5;
+  }
+  label {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 6px;
+    font-weight: 500;
+  }
+  input[type="password"] {
+    width: 100%;
+    padding: 12px 14px;
+    font-size: 16px;
+    border: 2px solid #c8d6e8;
+    border-radius: 8px;
+    outline: none;
+    font-family: inherit;
+    transition: border-color .18s, box-shadow .18s;
+    background: #fafcff;
+    letter-spacing: 2px;
+  }
+  input[type="password"]:focus {
+    border-color: #0069c0;
+    box-shadow: 0 0 0 3px rgba(0,105,192,.12);
+    background: white;
+  }
+  .error {
+    background: #fce8e6;
+    color: #c62828;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 13px;
+    margin-top: 10px;
+    text-align: left;
+  }
+  button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 13px;
+    background: #0069c0;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: inherit;
+    cursor: pointer;
+    transition: background .15s;
+  }
+  button:hover { background: #004a99; }
+  .footer { margin-top: 20px; font-size: 11px; color: #aaa; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="logo">OML</div>
+  <div class="title">岡山医学検査センター<br>インフォメーション検索システム</div>
+  <form method="post">
+    <label for="password">パスワード</label>
+    <input type="password" id="password" name="password"
+           placeholder="パスワードを入力" autofocus autocomplete="current-password">
+    {% if error %}
+    <div class="error">{{ error }}</div>
+    {% endif %}
+    <button type="submit">ログイン</button>
+  </form>
+  <div class="footer">関係者のみアクセス可能です</div>
+</div>
+</body>
+</html>
