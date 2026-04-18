@@ -167,12 +167,12 @@ header {
   text-align: center;
   min-width: 82px;
 }
-.card-date { font-size: 11px; color: #999; }
-.card-no   { font-size: 13px; font-weight: 700; color: #0069c0; margin-top: 3px; }
+.card-date { font-size: 13px; color: #999; }
+.card-no   { font-size: 15px; font-weight: 700; color: #0069c0; margin-top: 3px; }
 
 .card-body { flex: 1; min-width: 0; }
-.card-title { font-size: 15px; font-weight: 600; line-height: 1.45; }
-.card-summary { font-size: 13px; color: #556; margin-top: 5px; line-height: 1.6; }
+.card-title { font-size: 17px; font-weight: 600; line-height: 1.45; }
+.card-summary { font-size: 15px; color: #556; margin-top: 5px; line-height: 1.6; }
 .card-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
 
 .tag {
