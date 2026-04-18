@@ -1,5 +1,7 @@
 import json
 import os
+import re
+import unicodedata
 import functools
 from flask import Flask, render_template, jsonify, request, session, redirect, url_for
 
@@ -11,6 +13,20 @@ with open(DATA_FILE, encoding="utf-8") as f:
     ALL_DATA = json.load(f)
 
 APP_PASSWORD = os.environ.get("APP_PASSWORD", "oml2026")
+
+
+def normalize(text):
+    # 全角→半角、大文字→小文字
+    text = unicodedata.normalize("NFKC", text).lower()
+    # カタカナ→ひらがな
+    result = []
+    for ch in text:
+        code = ord(ch)
+        if 0x30A1 <= code <= 0x30F6:
+            result.append(chr(code - 0x60))
+        else:
+            result.append(ch)
+    return "".join(result)
 
 
 def login_required(f):
@@ -51,21 +67,21 @@ def index():
 def search():
     q = request.args.get("q", "").strip()
     category = request.args.get("category", "all")
-    keywords = [k.lower() for k in q.split() if k]
+    keywords = [normalize(k) for k in q.split() if k]
 
     results = []
     for item in ALL_DATA:
         if category != "all" and item.get("category", "") != category:
             continue
         if keywords:
-            haystack = " ".join([
+            haystack = normalize(" ".join([
                 item.get("date", ""),
                 item.get("no", ""),
                 item.get("title", ""),
                 item.get("summary", ""),
                 item.get("keywords", ""),
                 item.get("category", ""),
-            ]).lower()
+            ]))
             if not all(k in haystack for k in keywords):
                 continue
         results.append(item)
