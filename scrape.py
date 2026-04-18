@@ -1,8 +1,8 @@
 import json
 import re
-import sys
 import os
 import urllib.request
+from datetime import datetime, timedelta
 from html.parser import HTMLParser
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "data.json")
@@ -113,15 +113,33 @@ def scrape():
         }
         new_items.append(entry)
 
-    if not new_items:
-        print("新しい情報はありません。")
-        return
+    # 新規追加
+    merged = new_items + existing
 
-    updated = new_items + existing
+    # 日付順ソート（新しい順）
+    def date_key(item):
+        try:
+            return datetime.strptime(item["date"], "%Y.%m.%d")
+        except Exception:
+            return datetime.min
+    merged.sort(key=date_key, reverse=True)
+
+    # 5年以上前のデータを除外
+    cutoff = datetime.now() - timedelta(days=365 * 5)
+    before = len(merged)
+    merged = [i for i in merged if date_key(i) >= cutoff or date_key(i) == datetime.min]
+    removed = before - len(merged)
+
     with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(updated, f, ensure_ascii=False, indent=2)
+        json.dump(merged, f, ensure_ascii=False, indent=2)
 
-    print(f"{len(new_items)} 件追加しました: {[i['no'] for i in new_items]}")
+    if new_items:
+        print(f"{len(new_items)} 件追加しました: {[i['no'] for i in new_items]}")
+    else:
+        print("新しい情報はありません。")
+    if removed:
+        print(f"{removed} 件の古いデータを削除しました（5年超）。")
+    print(f"合計 {len(merged)} 件保持中。")
 
 
 if __name__ == "__main__":

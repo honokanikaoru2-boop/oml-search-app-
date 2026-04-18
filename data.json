@@ -1,275 +1,2541 @@
 [
-  {"date":"2026.03.26","no":"No.2026-13","title":"検査実施料に関するお知らせ","category":"実施料","summary":"Guardant360 CDx がん遺伝子パネルの検査料金変更。","keywords":"検査実施料 Guardant360 CDx がん遺伝子パネル 診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-13.pdf"},
-  {"date":"2026.03.25","no":"No.2026-12","title":"多剤耐性緑膿菌の判定基準変更のお知らせ","category":"内容変更","summary":"厚生労働省通知（感感発0205第2号）に基づき、一般細菌検査の薬剤感受性試験における多剤耐性緑膿菌の判定基準を変更。変更日：2026年4月6日より。","keywords":"多剤耐性緑膿菌 薬剤感受性試験 イミペネム メロペネム アミカシン シプロフロキサシン レボフロキサシン IPM MEPM AMK CPFX LVFX カルバペネム フルオロキノロン 細菌検査 感染症 MIC DISK 判定基準 届出基準 全数把握疾患","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-12.pdf","highlight":true},
-  {"date":"2026.03.10","no":"No.2026-11","title":"新規受託項目のお知らせ","category":"新規受託","summary":"HPV簡易遺伝子型検査の新規受託開始。","keywords":"HPV ヒトパピローマウイルス 遺伝子型 遺伝子検査","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-11.pdf"},
-  {"date":"2026.03.04","no":"No.2026-10","title":"検査内容変更のお知らせ","category":"内容変更","summary":"複数の検査項目の測定方法等の変更。","keywords":"測定方法 試薬変更","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-10.pdf"},
-  {"date":"2026.03.04","no":"No.2026-09","title":"検査受託中止のお知らせ","category":"受託中止","summary":"風疹ウイルス抗体/LA法の受託中止。","keywords":"風疹ウイルス 抗体 LA法","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-09.pdf"},
-  {"date":"2026.02.17","no":"No.2026-08","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/02/info2026-08.pdf"},
-  {"date":"2026.01.30","no":"No.2026-07","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/02/info2026-07.pdf"},
-  {"date":"2026.01.27","no":"No.2026-06","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-06.pdf"},
-  {"date":"2026.01.15","no":"No.2026-05","title":"容器変更のお知らせ","category":"容器変更","summary":"採血容器等の仕様変更。","keywords":"採血容器","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-05.pdf"},
-  {"date":"2026.01.07","no":"No.2026-04","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-04.pdf"},
-  {"date":"2026.01.07","no":"No.2026-03","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-03.pdf"},
-  {"date":"2026.01.05","no":"No.2026-02","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-02.pdf"},
-  {"date":"2026.01.05","no":"No.2026-01","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-01.pdf"},
-  {"date":"2025.12.18","no":"No.2025-53","title":"検査受託再開のお知らせ","category":"新規受託","summary":"一時中止していた検査の受託再開。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-53.pdf"},
-  {"date":"2025.12.09","no":"No.2025-52","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-52.pdf"},
-  {"date":"2025.12.08","no":"No.2025-51","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-51.pdf"},
-  {"date":"2025.12.05","no":"No.2025-50","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-50.pdf"},
-  {"date":"2025.12.05","no":"No.2025-49","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-49.pdf"},
-  {"date":"2025.11.29","no":"No.2025-48","title":"年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ","category":"業務日程","summary":"年末年始の業務日程および保存不適検体の年内最終受付日の案内。","keywords":"年末年始 業務日程 保存不適検体 受付日 休日","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-48.pdf"},
-  {"date":"2025.11.17","no":"No.2025-47","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-47.pdf"},
-  {"date":"2025.11.17","no":"No.2025-46","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-46.pdf"},
-  {"date":"2025.11.14","no":"No.2025-45","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容（測定方法・試薬等）の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-45.pdf"},
-  {"date":"2025.11.06","no":"No.2025-44","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-44.pdf"},
-  {"date":"2025.11.01","no":"—","title":"メチシリン感受性黄色ブドウ球菌に対するイノキュラムエフェクト陽性株の疫学調査共同研究参加のお知らせ","category":"その他","summary":"メチシリン感受性黄色ブドウ球菌（MSSA）のイノキュラムエフェクト陽性株に関する共同研究参加案内。","keywords":"メチシリン 黄色ブドウ球菌 MSSA 疫学調査 共同研究 イノキュラムエフェクト","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-mssa.pdf"},
-  {"date":"2025.10.22","no":"No.2025-43","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-43.pdf"},
-  {"date":"2025.10.20","no":"—","title":"活動リスト（ISO 15189認定範囲）2025.10.20版","category":"その他","summary":"ISO 15189認定範囲の活動リスト更新版。","keywords":"ISO 15189 認定 活動リスト","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/10/activelist-2025.pdf"},
-  {"date":"2025.10.10","no":"No.2025-42","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-42.pdf"},
-  {"date":"2025.10.02","no":"No.2025-41","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-41.pdf"},
-  {"date":"2025.10.01","no":"No.2025-40","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-40.pdf"},
-  {"date":"2025.09.24","no":"No.2025-39","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-39.pdf"},
-  {"date":"2025.09.19","no":"No.2025-38","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-38.pdf"},
-  {"date":"2025.09.16","no":"No.2025-37","title":"容器変更のお知らせ","category":"容器変更","summary":"採血容器等の仕様変更。","keywords":"採血容器","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-37.pdf"},
-  {"date":"2025.08.30","no":"No.2025-36","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-36.pdf"},
-  {"date":"2025.08.22","no":"No.2025-35","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-35.pdf"},
-  {"date":"2025.08.22","no":"No.2025-34","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-34.pdf"},
-  {"date":"2025.08.18","no":"No.2025-33","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-33.pdf"},
-  {"date":"2025.08.18","no":"No.2025-32","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-32.pdf"},
-  {"date":"2025.08.09","no":"No.2025-31","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-31.pdf"},
-  {"date":"2025.07.22","no":"No.2025-30","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-30.pdf"},
-  {"date":"2025.07.18","no":"No.2025-29","title":"細胞診婦人科材料（SurePath法以外）","category":"内容変更","summary":"細胞診婦人科材料の検査内容変更。","keywords":"細胞診 婦人科 SurePath","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-29.pdf"},
-  {"date":"2025.07.12","no":"No.2025-28","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-28.pdf"},
-  {"date":"2025.06.21","no":"No.2025-27","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-27.pdf"},
-  {"date":"2025.06.11","no":"No.2025-26","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-26.pdf"},
-  {"date":"2025.06.11","no":"No.2025-25","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-25.pdf"},
-  {"date":"2025.05.30","no":"No.2025-24","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-24.pdf"},
-  {"date":"2025.05.30","no":"No.2025-23","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-23.pdf"},
-  {"date":"2025.05.21","no":"No.2025-22","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-22.pdf"},
-  {"date":"2025.05.19","no":"No.2025-21","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-21.pdf"},
-  {"date":"2025.05.19","no":"No.2025-20","title":"TARC検査 採血容器に関する注意のお知らせ","category":"容器変更","summary":"TARC検査の採血容器に関する注意事項。","keywords":"TARC 採血容器 アトピー","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-20.pdf"},
-  {"date":"2025.05.19","no":"—","title":"活動リスト（ISO 15189認定範囲）2025.05.19版","category":"その他","summary":"ISO 15189認定範囲の活動リスト更新版。","keywords":"ISO 15189 認定 活動リスト","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/activelist-2025-05.pdf"},
-  {"date":"2025.05.14","no":"No.2025-19","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-19.pdf"},
-  {"date":"2025.05.02","no":"No.2025-18","title":"遺伝子関連・染色体検査 検査項目名称変更のお知らせ","category":"内容変更","summary":"遺伝子関連・染色体検査の検査項目名称変更。","keywords":"遺伝子 染色体 名称変更","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-18.pdf"},
-  {"date":"2025.05.01","no":"No.2025-17","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-17.pdf"},
-  {"date":"2025.04.26","no":"No.2025-16","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-16.pdf"},
-  {"date":"2025.04.19","no":"No.2025-15","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-15.pdf"},
-  {"date":"2025.04.11","no":"No.2025-14","title":"長期保存不適項目のゴールデンウィーク期間の受託日程に関するお知らせ","category":"業務日程","summary":"ゴールデンウィーク期間の長期保存不適項目の受託日程案内。","keywords":"ゴールデンウィーク GW 保存不適 休日 業務日程","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-14.pdf"},
-  {"date":"2025.04.10","no":"No.2025-13","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-13.pdf"},
-  {"date":"2025.03.13","no":"No.2025-12","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/03/info2025-12.pdf"},
-  {"date":"2025.03.05","no":"No.2025-11","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-11.pdf"},
-  {"date":"2025.02.19","no":"No.2025-10","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/03/info2025-10.pdf"},
-  {"date":"2025.02.05","no":"No.2025-09","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-09.pdf"},
-  {"date":"2025.02.05","no":"No.2025-08","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/02/info2025-08.pdf"},
-  {"date":"2025.02.05","no":"No.2025-07","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/02/info2025-07.pdf"},
-  {"date":"2025.01.29","no":"No.2025-06","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-06.pdf"},
-  {"date":"2025.01.29","no":"No.2025-05","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-05.pdf"},
-  {"date":"2025.01.27","no":"No.2025-04","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-04.pdf"},
-  {"date":"2025.01.22","no":"No.2025-03","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-03.pdf"},
-  {"date":"2025.01.09","no":"No.2025-02","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-02.pdf"},
-  {"date":"2025.01.07","no":"No.2025-01","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-01.pdf"},
-  {"date":"2024.12.18","no":"No.2024-50","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/12/info2024-50.pdf"},
-  {"date":"2024.12.18","no":"No.2024-49","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/12/info2024-49.pdf"},
-  {"date":"2024.12.02","no":"No.2024-48","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-48.pdf"},
-  {"date":"2024.11.29","no":"No.2024-47","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-47.pdf"},
-  {"date":"2024.11.27","no":"No.2024-46","title":"年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ","category":"業務日程","summary":"年末年始の業務日程および保存不適検体の年内最終受付日の案内。","keywords":"年末年始 業務日程 保存不適検体 受付日 休日","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-46.pdf"},
-  {"date":"2024.11.21","no":"No.2024-45","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-45.pdf"},
-  {"date":"2024.11.21","no":"No.2024-44","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-44.pdf"},
-  {"date":"2024.11.06","no":"No.2024-43","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-43.pdf"},
-  {"date":"2024.11.01","no":"No.2024-42","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-42.pdf"},
-  {"date":"2024.11.01","no":"No.2024-41","title":"容器変更のお知らせ","category":"容器変更","summary":"採血容器等の仕様変更。","keywords":"採血容器","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-41.pdf"},
-  {"date":"2024.11.01","no":"—","title":"岡山県内及び周辺地域における薬剤耐性菌の分子疫学調査参加のお知らせ","category":"その他","summary":"薬剤耐性菌の分子疫学調査共同研究参加案内。","keywords":"薬剤耐性菌 分子疫学調査 共同研究","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-research.pdf"},
-  {"date":"2024.10.21","no":"No.2024-40","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-40.pdf"},
-  {"date":"2024.10.18","no":"No.2024-39","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-39.pdf"},
-  {"date":"2024.10.17","no":"No.2024-38","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-38.pdf"},
-  {"date":"2024.10.11","no":"No.2024-37","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-37.pdf"},
-  {"date":"2024.10.10","no":"No.2024-36","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-36.pdf"},
-  {"date":"2024.09.26","no":"No.2024-35","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-35.pdf"},
-  {"date":"2024.09.11","no":"No.2024-34","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-34.pdf"},
-  {"date":"2024.09.06","no":"No.2024-33","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-33.pdf"},
-  {"date":"2024.08.28","no":"No.2024-32","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-32.pdf"},
-  {"date":"2024.08.20","no":"No.2024-31","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-31.pdf"},
-  {"date":"2024.08.20","no":"No.2024-30","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-30.pdf"},
-  {"date":"2024.08.16","no":"No.2024-29","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-29.pdf"},
-  {"date":"2024.08.13","no":"No.2024-28","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-28.pdf"},
-  {"date":"2024.08.07","no":"No.2024-27","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-27.pdf"},
-  {"date":"2024.07.25","no":"No.2024-26","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/07/info2024-26.pdf"},
-  {"date":"2024.07.17","no":"No.2024-25","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/07/info2024-25.pdf"},
-  {"date":"2024.06.14","no":"No.2024-24","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-24.pdf"},
-  {"date":"2024.06.14","no":"No.2024-23","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-23.pdf"},
-  {"date":"2024.06.13","no":"No.2024-22","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-22.pdf"},
-  {"date":"2024.06.13","no":"No.2024-21","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-21.pdf"},
-  {"date":"2024.06.12","no":"No.2024-20","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-20.pdf"},
-  {"date":"2024.05.28","no":"No.2024-19","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-19.pdf"},
-  {"date":"2024.05.14","no":"No.2024-18","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-18.pdf"},
-  {"date":"2024.05.14","no":"No.2024-17","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-17.pdf"},
-  {"date":"2024.04.23","no":"No.2024-16","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/04/info2024-16.pdf"},
-  {"date":"2024.04.11","no":"No.2024-15","title":"ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査について","category":"業務日程","summary":"ゴールデンウィーク期間の受託日程および休日緊急検査の案内。","keywords":"ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/04/info2024-15.pdf"},
-  {"date":"2024.03.18","no":"No.2024-14","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-14.pdf"},
-  {"date":"2024.03.14","no":"No.2024-13","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-13.pdf"},
-  {"date":"2024.03.11","no":"No.2024-12","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-12.pdf"},
-  {"date":"2024.03.11","no":"No.2024-11","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-11.pdf"},
-  {"date":"2024.03.07","no":"No.2024-10","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-10.pdf"},
-  {"date":"2024.03.05","no":"No.2024-09","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-09.pdf"},
-  {"date":"2024.03.04","no":"No.2024-08","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-08.pdf"},
-  {"date":"2024.02.29","no":"No.2024-07","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-07.pdf"},
-  {"date":"2024.02.26","no":"No.2024-06","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-06.pdf"},
-  {"date":"2024.02.21","no":"No.2024-05","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-05.pdf"},
-  {"date":"2024.02.07","no":"No.2024-04","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-04.pdf"},
-  {"date":"2024.01.25","no":"No.2024-03","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-03.pdf"},
-  {"date":"2024.01.25","no":"No.2024-02","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-02.pdf"},
-  {"date":"2024.01.22","no":"No.2024-01","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-01.pdf"},
-  {"date":"2023.12.27","no":"No.2023-56","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-56.pdf"},
-  {"date":"2023.12.25","no":"No.2023-55","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-55.pdf"},
-  {"date":"2023.12.20","no":"No.2023-54","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-54.pdf"},
-  {"date":"2023.12.20","no":"No.2023-53","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-53.pdf"},
-  {"date":"2023.12.19","no":"No.2023-52","title":"測定機器および試薬変更のお知らせ","category":"内容変更","summary":"測定機器および試薬の変更。","keywords":"測定機器 試薬変更","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-52.pdf"},
-  {"date":"2023.12.11","no":"No.2023-51","title":"報告名称変更のお知らせ","category":"内容変更","summary":"検査報告の名称変更。","keywords":"報告名称変更","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-51.pdf"},
-  {"date":"2023.11.24","no":"No.2023-50","title":"年末年始の休日緊急検査のお知らせ","category":"業務日程","summary":"年末年始の休日緊急検査案内。","keywords":"年末年始 休日 緊急検査 業務日程","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-50.pdf"},
-  {"date":"2023.11.24","no":"No.2023-49","title":"年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ","category":"業務日程","summary":"年末年始の業務日程および保存不適検体の年内最終受付日の案内。","keywords":"年末年始 業務日程 保存不適検体 受付日 休日","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-49.pdf"},
-  {"date":"2023.11.21","no":"No.2023-48","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-48.pdf"},
-  {"date":"2023.11.20","no":"No.2023-47","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-47.pdf"},
-  {"date":"2023.10.12","no":"No.2023-46","title":"抗酸菌同定（質量分析法）の検査内容変更のお知らせ","category":"内容変更","summary":"抗酸菌同定（質量分析法）の検査内容変更。","keywords":"抗酸菌 質量分析法 同定","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/10/info2023-46.pdf"},
-  {"date":"2023.10.05","no":"No.2023-45","title":"凝固線溶系検査の規定量不足に対するコメント付記のお知らせ","category":"内容変更","summary":"凝固線溶系検査の規定量不足へのコメント付記対応。","keywords":"凝固線溶系 規定量不足 コメント","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/10/info2023-45.pdf"},
-  {"date":"2023.09.27","no":"No.2023-44","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-44.pdf"},
-  {"date":"2023.09.27","no":"No.2023-43","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-43.pdf"},
-  {"date":"2023.09.15","no":"No.2023-42","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-42.pdf"},
-  {"date":"2023.08.17","no":"No.2023-41","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-41.pdf"},
-  {"date":"2023.08.17","no":"No.2023-40","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-40.pdf"},
-  {"date":"2023.08.10","no":"No.2023-39","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-39.pdf"},
-  {"date":"2023.08.10","no":"No.2023-38","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-38.pdf"},
-  {"date":"2023.08.10","no":"No.2023-37","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-37.pdf"},
-  {"date":"2023.08.04","no":"No.2023-36","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-36.pdf"},
-  {"date":"2023.08.04","no":"No.2023-35","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-35.pdf"},
-  {"date":"2023.07.18","no":"No.2023-34","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-34.pdf"},
-  {"date":"2023.07.13","no":"No.2023-33","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-33.pdf"},
-  {"date":"2023.07.13","no":"No.2023-32","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-32.pdf"},
-  {"date":"2023.07.13","no":"No.2023-31","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-31.pdf"},
-  {"date":"2023.06.28","no":"No.2023-30","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-30.pdf"},
-  {"date":"2023.06.21","no":"No.2023-29","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-29.pdf"},
-  {"date":"2023.06.21","no":"No.2023-28","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-28.pdf"},
-  {"date":"2023.06.15","no":"No.2023-27","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-27.pdf"},
-  {"date":"2023.06.08","no":"No.2023-26","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-26.pdf"},
-  {"date":"2023.05.22","no":"No.2023-25","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-25.pdf"},
-  {"date":"2023.05.17","no":"No.2023-24","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-24.pdf"},
-  {"date":"2023.05.15","no":"No.2023-23","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-23.pdf"},
-  {"date":"2023.05.15","no":"No.2023-22","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-22.pdf"},
-  {"date":"2023.05.11","no":"No.2023-21","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-21.pdf"},
-  {"date":"2023.04.21","no":"No.2023-20","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-20.pdf"},
-  {"date":"2023.04.21","no":"No.2023-19","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-19.pdf"},
-  {"date":"2023.04.20","no":"No.2023-18","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-18.pdf"},
-  {"date":"2023.04.20","no":"No.2023-17","title":"「甲状腺機能 検査チャート」改訂のお知らせ","category":"内容変更","summary":"甲状腺機能検査チャートの改訂。","keywords":"甲状腺 甲状腺機能 検査チャート","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-17.pdf"},
-  {"date":"2023.04.17","no":"No.2023-16","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-16.pdf"},
-  {"date":"2023.04.11","no":"No.2023-15","title":"ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査について","category":"業務日程","summary":"ゴールデンウィーク期間の受託日程および休日緊急検査の案内。","keywords":"ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-15.pdf"},
-  {"date":"2023.03.29","no":"No.2023-14","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-14.pdf"},
-  {"date":"2023.03.18","no":"No.2023-13","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-13.pdf"},
-  {"date":"2023.03.04","no":"No.2023-12","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-12.pdf"},
-  {"date":"2023.03.03","no":"No.2023-11","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-11.pdf"},
-  {"date":"2023.03.02","no":"No.2023-10","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-10.pdf"},
-  {"date":"2023.02.25","no":"No.2023-09","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-09.pdf"},
-  {"date":"2023.02.22","no":"No.2023-08","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-08.pdf"},
-  {"date":"2023.02.17","no":"No.2023-07","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-07.pdf"},
-  {"date":"2023.02.17","no":"No.2023-06","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-06.pdf"},
-  {"date":"2023.02.08","no":"No.2023-05","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-05.pdf"},
-  {"date":"2023.02.06","no":"No.2023-04","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-04.pdf"},
-  {"date":"2023.02.06","no":"No.2023-03","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-03.pdf"},
-  {"date":"2023.01.30","no":"No.2023-02","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/01/info2023-02.pdf"},
-  {"date":"2023.01.16","no":"No.2023-01","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2023/01/info2023-01.pdf"},
-  {"date":"2022.12.28","no":"No.2022-54","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-54.pdf"},
-  {"date":"2022.12.28","no":"No.2022-53","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-53.pdf"},
-  {"date":"2022.12.28","no":"No.2022-52","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-52.pdf"},
-  {"date":"2022.12.26","no":"No.2022-51","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-51.pdf"},
-  {"date":"2022.12.26","no":"No.2022-50","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-50.pdf"},
-  {"date":"2022.12.26","no":"No.2022-49","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-49.pdf"},
-  {"date":"2022.12.20","no":"No.2022-48","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-48.pdf"},
-  {"date":"2022.12.19","no":"No.2022-47","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-47.pdf"},
-  {"date":"2022.12.13","no":"No.2022-46","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-46.pdf"},
-  {"date":"2022.12.05","no":"No.2022-45","title":"測定機器および試薬変更のお知らせ","category":"内容変更","summary":"測定機器および試薬の変更。","keywords":"測定機器 試薬変更","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-45.pdf"},
-  {"date":"2022.12.05","no":"No.2022-44","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-44.pdf"},
-  {"date":"2022.12.01","no":"No.2022-43","title":"年末年始の休日緊急検査のお知らせ","category":"業務日程","summary":"年末年始の休日緊急検査案内。","keywords":"年末年始 休日 緊急検査","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-43.pdf"},
-  {"date":"2022.12.01","no":"No.2022-42","title":"年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ","category":"業務日程","summary":"年末年始の業務日程案内。","keywords":"年末年始 業務日程 保存不適検体 受付日","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-42-1.pdf"},
-  {"date":"2022.12.01","no":"No.2022-41","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-41.pdf"},
-  {"date":"2022.11.21","no":"No.2022-40","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-40.pdf"},
-  {"date":"2022.11.16","no":"No.2022-39","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-39.pdf"},
-  {"date":"2022.11.16","no":"No.2022-38","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-38.pdf"},
-  {"date":"2022.10.29","no":"No.2022-37","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-37.pdf"},
-  {"date":"2022.10.26","no":"No.2022-36","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-36.pdf"},
-  {"date":"2022.10.13","no":"No.2022-35","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/10/info2022-35.pdf"},
-  {"date":"2022.10.07","no":"No.2022-34","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/10/info2022-34.pdf"},
-  {"date":"2022.09.26","no":"No.2022-33","title":"アレルゲン検査チャート改訂のお知らせ","category":"内容変更","summary":"アレルゲン検査チャートの改訂。","keywords":"アレルゲン アレルギー 検査チャート","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-33.pdf"},
-  {"date":"2022.09.17","no":"No.2022-32","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-32.pdf"},
-  {"date":"2022.09.17","no":"No.2022-31","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-31.pdf"},
-  {"date":"2022.09.05","no":"No.2022-30","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-30.pdf"},
-  {"date":"2022.09.02","no":"No.2022-29","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-29.pdf"},
-  {"date":"2022.08.31","no":"No.2022-28","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-28.pdf"},
-  {"date":"2022.07.13","no":"No.2022-27","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-27.pdf"},
-  {"date":"2022.07.13","no":"No.2022-26","title":"報告遅延解消のお知らせ","category":"その他","summary":"検査結果報告遅延の解消。","keywords":"報告遅延 解消","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-26.pdf"},
-  {"date":"2022.06.24","no":"No.2022-25","title":"検査結果報告遅延のお知らせ","category":"その他","summary":"検査結果報告遅延のお知らせ。","keywords":"報告遅延","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-25.pdf"},
-  {"date":"2022.06.23","no":"No.2022-24","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-24.pdf"},
-  {"date":"2022.06.13","no":"No.2022-23","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-23.pdf"},
-  {"date":"2022.05.27","no":"No.2022-22","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-22.pdf"},
-  {"date":"2022.05.27","no":"No.2022-21","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-21.pdf"},
-  {"date":"2022.05.23","no":"No.2022-20","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-20.pdf"},
-  {"date":"2022.05.23","no":"No.2022-19","title":"基準範囲表記変更のお知らせ","category":"内容変更","summary":"基準範囲の表記変更。","keywords":"基準範囲 表記変更","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-19.pdf"},
-  {"date":"2022.05.21","no":"No.2022-18","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-18.pdf"},
-  {"date":"2022.04.27","no":"No.2022-17","title":"令和4年度診療報酬改定に関するお知らせ","category":"実施料","summary":"令和4年度診療報酬改定に関するお知らせ。","keywords":"診療報酬改定 令和4年度","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-17.pdf"},
-  {"date":"2022.04.19","no":"No.2022-16","title":"報告遅延解消のお知らせ","category":"その他","summary":"検査結果報告遅延の解消。","keywords":"報告遅延 解消","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-16.pdf"},
-  {"date":"2022.04.19","no":"No.2022-15","title":"ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査についてのお知らせ","category":"業務日程","summary":"ゴールデンウィーク期間の受託日程および休日緊急検査の案内。","keywords":"ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-15.pdf"},
-  {"date":"2022.04.13","no":"No.2022-14","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-14.pdf"},
-  {"date":"2022.03.30","no":"No.2022-13","title":"検査結果報告遅延のお知らせ","category":"その他","summary":"検査結果報告遅延のお知らせ。","keywords":"報告遅延","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-13.pdf"},
-  {"date":"2022.03.30","no":"No.2022-12","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-12.pdf"},
-  {"date":"2022.03.24","no":"No.2022-11","title":"検査一時受託中止のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-11.pdf"},
-  {"date":"2022.03.22","no":"No.2022-10","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-10.pdf"},
-  {"date":"2022.02.28","no":"No.2022-09","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-09.pdf"},
-  {"date":"2022.02.28","no":"No.2022-08","title":"検査受託中止のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-08.pdf"},
-  {"date":"2022.02.24","no":"No.2022-07","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-07.pdf"},
-  {"date":"2022.02.22","no":"No.2022-06","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-06.pdf"},
-  {"date":"2022.01.31","no":"No.2022-05","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-05.pdf"},
-  {"date":"2022.01.25","no":"No.2022-04","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-04.pdf"},
-  {"date":"2022.01.22","no":"No.2022-03","title":"HbA1c（ヘモグロビンA1c）報告書への溶血コメント追記のお知らせ","category":"内容変更","summary":"HbA1c報告書への溶血コメント追記対応。","keywords":"HbA1c ヘモグロビンA1c 溶血 コメント 糖尿病","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-03.pdf"},
-  {"date":"2022.01.19","no":"No.2022-02","title":"受託中止項目のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-02.pdf"},
-  {"date":"2022.01.19","no":"No.2022-01","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-01.pdf"},
-  {"date":"2021.12.22","no":"No.2021-59","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-59.pdf"},
-  {"date":"2021.12.17","no":"No.2021-58","title":"検査項目名変更のお知らせ","category":"内容変更","summary":"検査項目名称の変更。","keywords":"項目名変更 名称変更","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-58.pdf"},
-  {"date":"2021.12.15","no":"No.2021-57","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-57.pdf"},
-  {"date":"2021.12.13","no":"No.2021-56","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-56.pdf"},
-  {"date":"2021.12.13","no":"No.2021-55","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-55.pdf"},
-  {"date":"2021.12.03","no":"No.2021-54","title":"年末年始の休日緊急検査のお知らせ","category":"業務日程","summary":"年末年始の休日緊急検査案内。","keywords":"年末年始 休日 緊急検査","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-54.pdf"},
-  {"date":"2021.12.03","no":"No.2021-53","title":"年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ","category":"業務日程","summary":"年末年始の業務日程および保存不適検体の年内最終受付日の案内。","keywords":"年末年始 業務日程 保存不適検体 受付日 休日","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-53.pdf"},
-  {"date":"2021.12.01","no":"No.2021-52","title":"一時受託中止項目のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-52.pdf"},
-  {"date":"2021.11.19","no":"No.2021-51","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-51.pdf"},
-  {"date":"2021.11.19","no":"No.2021-50","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-50.pdf"},
-  {"date":"2021.11.12","no":"No.2021-49","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-49.pdf"},
-  {"date":"2021.11.06","no":"No.2021-48","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-48.pdf"},
-  {"date":"2021.10.23","no":"No.2021-47","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-47.pdf"},
-  {"date":"2021.10.20","no":"No.2021-46","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-46.pdf"},
-  {"date":"2021.10.20","no":"No.2021-45","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-45.pdf"},
-  {"date":"2021.09.29","no":"No.2021-44","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-44.pdf"},
-  {"date":"2021.09.21","no":"No.2021-43","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-43.pdf"},
-  {"date":"2021.09.21","no":"No.2021-42","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-42.pdf"},
-  {"date":"2021.09.15","no":"No.2021-41","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-41.pdf"},
-  {"date":"2021.09.14","no":"No.2021-40","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-40.pdf"},
-  {"date":"2021.09.10","no":"No.2021-39","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-39.pdf"},
-  {"date":"2021.09.03","no":"No.2021-38","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-38.pdf"},
-  {"date":"2021.08.28","no":"No.2021-37","title":"検査受託再開のお知らせ","category":"新規受託","summary":"受託再開項目のお知らせ。","keywords":"受託再開","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-37.pdf"},
-  {"date":"2021.08.25","no":"No.2021-36","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-36.pdf"},
-  {"date":"2021.08.25","no":"No.2021-35","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-35.pdf"},
-  {"date":"2021.08.25","no":"No.2021-34","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-34.pdf"},
-  {"date":"2021.08.17","no":"No.2021-33","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-33.pdf"},
-  {"date":"2021.08.17","no":"No.2021-32","title":"受託中止項目のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-32.pdf"},
-  {"date":"2021.08.06","no":"No.2021-31","title":"一時受託中止項目のお知らせ","category":"受託中止","summary":"一時受託中止項目のお知らせ。","keywords":"一時","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-31.pdf"},
-  {"date":"2021.07.27","no":"No.2021-30","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-30.pdf"},
-  {"date":"2021.07.17","no":"No.2021-29","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-29.pdf"},
-  {"date":"2021.07.05","no":"No.2021-28","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-28.pdf"},
-  {"date":"2021.06.30","no":"No.2021-27","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-27.pdf"},
-  {"date":"2021.06.30","no":"No.2021-26","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-26.pdf"},
-  {"date":"2021.06.23","no":"No.2021-25","title":"祝日変更に伴う弊社業務日程について","category":"業務日程","summary":"祝日変更に伴う業務日程案内。","keywords":"祝日 業務日程","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-25.pdf"},
-  {"date":"2021.06.16","no":"No.2021-24","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-24.pdf"},
-  {"date":"2021.05.31","no":"No.2021-23","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-23.pdf"},
-  {"date":"2021.05.19","no":"No.2021-22","title":"検査内容変更のお知らせ","category":"内容変更","summary":"検査内容の変更。","keywords":"測定方法 試薬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-22.pdf"},
-  {"date":"2021.05.07","no":"No.2021-21","title":"受託中止項目のお知らせ","category":"受託中止","summary":"受託中止項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-21.pdf"},
-  {"date":"2021.05.01","no":"No.2021-20","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-20.pdf"},
-  {"date":"2021.04.26","no":"No.2021-19","title":"検査実施料に関するお知らせ","category":"実施料","summary":"検査実施料の変更。","keywords":"診療報酬","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-19.pdf"},
-  {"date":"2021.04.21","no":"No.2021-18","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-18.pdf"},
-  {"date":"2021.04.21","no":"No.2021-17","title":"新規受託項目のお知らせ","category":"新規受託","summary":"新規受託開始項目のお知らせ。","keywords":"","pdf":"https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-17.pdf"}
+  {
+    "date": "2026.03.26",
+    "no": "No.2026-13",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "Guardant360 CDx がん遺伝子パネルの検査料金変更。",
+    "keywords": "検査実施料 Guardant360 CDx がん遺伝子パネル 診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-13.pdf"
+  },
+  {
+    "date": "2026.03.25",
+    "no": "No.2026-12",
+    "title": "多剤耐性緑膿菌の判定基準変更のお知らせ",
+    "category": "内容変更",
+    "summary": "厚生労働省通知（感感発0205第2号）に基づき、一般細菌検査の薬剤感受性試験における多剤耐性緑膿菌の判定基準を変更。変更日：2026年4月6日より。",
+    "keywords": "多剤耐性緑膿菌 薬剤感受性試験 イミペネム メロペネム アミカシン シプロフロキサシン レボフロキサシン IPM MEPM AMK CPFX LVFX カルバペネム フルオロキノロン 細菌検査 感染症 MIC DISK 判定基準 届出基準 全数把握疾患",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-12.pdf",
+    "highlight": true
+  },
+  {
+    "date": "2026.03.10",
+    "no": "No.2026-11",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "HPV簡易遺伝子型検査の新規受託開始。",
+    "keywords": "HPV ヒトパピローマウイルス 遺伝子型 遺伝子検査",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-11.pdf"
+  },
+  {
+    "date": "2026.03.04",
+    "no": "No.2026-10",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "複数の検査項目の測定方法等の変更。",
+    "keywords": "測定方法 試薬変更",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-10.pdf"
+  },
+  {
+    "date": "2026.03.04",
+    "no": "No.2026-09",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "風疹ウイルス抗体/LA法の受託中止。",
+    "keywords": "風疹ウイルス 抗体 LA法",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-09.pdf"
+  },
+  {
+    "date": "2026.02.17",
+    "no": "No.2026-08",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/02/info2026-08.pdf"
+  },
+  {
+    "date": "2026.01.30",
+    "no": "No.2026-07",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/02/info2026-07.pdf"
+  },
+  {
+    "date": "2026.01.27",
+    "no": "No.2026-06",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-06.pdf"
+  },
+  {
+    "date": "2026.01.15",
+    "no": "No.2026-05",
+    "title": "容器変更のお知らせ",
+    "category": "容器変更",
+    "summary": "採血容器等の仕様変更。",
+    "keywords": "採血容器",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-05.pdf"
+  },
+  {
+    "date": "2026.01.07",
+    "no": "No.2026-04",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-04.pdf"
+  },
+  {
+    "date": "2026.01.07",
+    "no": "No.2026-03",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-03.pdf"
+  },
+  {
+    "date": "2026.01.05",
+    "no": "No.2026-02",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-02.pdf"
+  },
+  {
+    "date": "2026.01.05",
+    "no": "No.2026-01",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-01.pdf"
+  },
+  {
+    "date": "2025.12.18",
+    "no": "No.2025-53",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "一時中止していた検査の受託再開。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-53.pdf"
+  },
+  {
+    "date": "2025.12.09",
+    "no": "No.2025-52",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-52.pdf"
+  },
+  {
+    "date": "2025.12.08",
+    "no": "No.2025-51",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-51.pdf"
+  },
+  {
+    "date": "2025.12.05",
+    "no": "No.2025-50",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-50.pdf"
+  },
+  {
+    "date": "2025.12.05",
+    "no": "No.2025-49",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-49.pdf"
+  },
+  {
+    "date": "2025.11.29",
+    "no": "No.2025-48",
+    "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
+    "category": "業務日程",
+    "summary": "年末年始の業務日程および保存不適検体の年内最終受付日の案内。",
+    "keywords": "年末年始 業務日程 保存不適検体 受付日 休日",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-48.pdf"
+  },
+  {
+    "date": "2025.11.17",
+    "no": "No.2025-47",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-47.pdf"
+  },
+  {
+    "date": "2025.11.17",
+    "no": "No.2025-46",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-46.pdf"
+  },
+  {
+    "date": "2025.11.14",
+    "no": "No.2025-45",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容（測定方法・試薬等）の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-45.pdf"
+  },
+  {
+    "date": "2025.11.06",
+    "no": "No.2025-44",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-44.pdf"
+  },
+  {
+    "date": "2025.11.01",
+    "no": "—",
+    "title": "「メチシリン感受性黄色ブドウ球菌に対するイノキュラムエフェクト陽性株の疫学調査」 共同研究参加のお知らせ",
+    "category": "その他",
+    "summary": "株式会社岡山医学検査センターは岡山大学病院 感染症内科と共同で「メチシリン感受性黄色ブド\r\nウ球菌に対するイノキュラムエフェクト陽性株の疫学調査」を行います。当社は共同研究機関として\r\n参加致します。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/【承認済】情報公開文書_岡山医学ホームページ掲載文_岡大IRB承認済_岡山医学承認済_20251025.pdf"
+  },
+  {
+    "date": "2025.11.01",
+    "no": "—",
+    "title": "メチシリン感受性黄色ブドウ球菌に対するイノキュラムエフェクト陽性株の疫学調査共同研究参加のお知らせ",
+    "category": "その他",
+    "summary": "メチシリン感受性黄色ブドウ球菌（MSSA）のイノキュラムエフェクト陽性株に関する共同研究参加案内。",
+    "keywords": "メチシリン 黄色ブドウ球菌 MSSA 疫学調査 共同研究 イノキュラムエフェクト",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-mssa.pdf"
+  },
+  {
+    "date": "2025.10.22",
+    "no": "No.2025-43",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-43.pdf"
+  },
+  {
+    "date": "2025.10.20",
+    "no": "—",
+    "title": "2025.10.20版_活動リスト（ISO 15189認定範囲）",
+    "category": "その他",
+    "summary": "ISO 15189の認定検査室である『株式会社岡山医学検査センター本社ラボ』の認定範囲となる測定項目、サンプル（検査材料）、測定方法、SOP番号、変更点および変更日をご案内申し上げます。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/2025.10.20版_株式会社岡山医学検査センター本社ラボ活動リスト（ISO15189認定範囲）.pdf"
+  },
+  {
+    "date": "2025.10.20",
+    "no": "—",
+    "title": "活動リスト（ISO 15189認定範囲）2025.10.20版",
+    "category": "その他",
+    "summary": "ISO 15189認定範囲の活動リスト更新版。",
+    "keywords": "ISO 15189 認定 活動リスト",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/activelist-2025.pdf"
+  },
+  {
+    "date": "2025.10.10",
+    "no": "No.2025-42",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-42.pdf"
+  },
+  {
+    "date": "2025.10.02",
+    "no": "No.2025-41",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-41.pdf"
+  },
+  {
+    "date": "2025.10.01",
+    "no": "—",
+    "title": "2024.08.26版_苦情処理プロセス（ISO 15189認定範囲）",
+    "category": "その他",
+    "summary": "当社の臨床検査および病理検査事業への苦情に対する「苦情処理プロセス」をご案内申し上げます。\r\n当社は、苦情を受けた場合、その内容について迅速に調査し、合理的な期間内に誠意をもって対応いたします。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/2024.08.26版_苦情処理プロセス-1.pdf"
+  },
+  {
+    "date": "2025.10.01",
+    "no": "No.2025-40",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-40.pdf"
+  },
+  {
+    "date": "2025.09.24",
+    "no": "No.2025-39",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-39.pdf"
+  },
+  {
+    "date": "2025.09.19",
+    "no": "No.2025-38",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-38.pdf"
+  },
+  {
+    "date": "2025.09.16",
+    "no": "No.2025-37",
+    "title": "容器変更のお知らせ",
+    "category": "容器変更",
+    "summary": "採血容器等の仕様変更。",
+    "keywords": "採血容器",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-37.pdf"
+  },
+  {
+    "date": "2025.08.30",
+    "no": "No.2025-36",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-36.pdf"
+  },
+  {
+    "date": "2025.08.22",
+    "no": "No.2025-35",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-35.pdf"
+  },
+  {
+    "date": "2025.08.22",
+    "no": "No.2025-34",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-34.pdf"
+  },
+  {
+    "date": "2025.08.18",
+    "no": "No.2025-33",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-33.pdf"
+  },
+  {
+    "date": "2025.08.18",
+    "no": "No.2025-32",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-32.pdf"
+  },
+  {
+    "date": "2025.08.09",
+    "no": "No.2025-31",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-31.pdf"
+  },
+  {
+    "date": "2025.07.22",
+    "no": "No.2025-30",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-30.pdf"
+  },
+  {
+    "date": "2025.07.18",
+    "no": "No.2025-29",
+    "title": "細胞診婦人科材料（SurePath法以外）",
+    "category": "内容変更",
+    "summary": "細胞診婦人科材料の検査内容変更。",
+    "keywords": "細胞診 婦人科 SurePath",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-29.pdf"
+  },
+  {
+    "date": "2025.07.12",
+    "no": "No.2025-28",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-28.pdf"
+  },
+  {
+    "date": "2025.06.21",
+    "no": "No.2025-27",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-27.pdf"
+  },
+  {
+    "date": "2025.06.11",
+    "no": "No.2025-26",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-26.pdf"
+  },
+  {
+    "date": "2025.06.11",
+    "no": "No.2025-25",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-25.pdf"
+  },
+  {
+    "date": "2025.05.30",
+    "no": "No.2025-24",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-24.pdf"
+  },
+  {
+    "date": "2025.05.30",
+    "no": "No.2025-23",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-23.pdf"
+  },
+  {
+    "date": "2025.05.21",
+    "no": "No.2025-22",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-22.pdf"
+  },
+  {
+    "date": "2025.05.19",
+    "no": "—",
+    "title": "2025.05.19版_活動リスト（ISO 15189認定範囲）",
+    "category": "その他",
+    "summary": "ISO 15189の認定検査室である『株式会社岡山医学検査センター本社ラボ』の認定範囲となる測定項目、サンプル（検査材料）、測定方法、SOP番号、変更点および変更日をご案内申し上げます。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/2025.05.19版_株式会社岡山医学検査センター本社ラボ活動リスト（ISO15189認定範囲）.pdf"
+  },
+  {
+    "date": "2025.05.19",
+    "no": "No.2025-21",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-21.pdf"
+  },
+  {
+    "date": "2025.05.19",
+    "no": "No.2025-20",
+    "title": "TARC検査 採血容器に関する注意のお知らせ",
+    "category": "容器変更",
+    "summary": "TARC検査の採血容器に関する注意事項。",
+    "keywords": "TARC 採血容器 アトピー",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-20.pdf"
+  },
+  {
+    "date": "2025.05.19",
+    "no": "—",
+    "title": "活動リスト（ISO 15189認定範囲）2025.05.19版",
+    "category": "その他",
+    "summary": "ISO 15189認定範囲の活動リスト更新版。",
+    "keywords": "ISO 15189 認定 活動リスト",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/activelist-2025-05.pdf"
+  },
+  {
+    "date": "2025.05.14",
+    "no": "No.2025-19",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-19.pdf"
+  },
+  {
+    "date": "2025.05.02",
+    "no": "No.2025-18",
+    "title": "遺伝子関連・染色体検査 検査項目名称変更のお知らせ",
+    "category": "内容変更",
+    "summary": "遺伝子関連・染色体検査の検査項目名称変更。",
+    "keywords": "遺伝子 染色体 名称変更",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-18.pdf"
+  },
+  {
+    "date": "2025.05.01",
+    "no": "No.2025-17",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-17.pdf"
+  },
+  {
+    "date": "2025.04.26",
+    "no": "No.2025-16",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-16.pdf"
+  },
+  {
+    "date": "2025.04.19",
+    "no": "No.2025-15",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-15.pdf"
+  },
+  {
+    "date": "2025.04.11",
+    "no": "No.2025-14",
+    "title": "長期保存不適項目のゴールデンウィーク期間の受託日程に関するお知らせ",
+    "category": "業務日程",
+    "summary": "ゴールデンウィーク期間の長期保存不適項目の受託日程案内。",
+    "keywords": "ゴールデンウィーク GW 保存不適 休日 業務日程",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-14.pdf"
+  },
+  {
+    "date": "2025.04.10",
+    "no": "No.2025-13",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-13.pdf"
+  },
+  {
+    "date": "2025.03.13",
+    "no": "No.2025-12",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/03/info2025-12.pdf"
+  },
+  {
+    "date": "2025.03.05",
+    "no": "No.2025-11",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-11.pdf"
+  },
+  {
+    "date": "2025.02.19",
+    "no": "No.2025-10",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/03/info2025-10.pdf"
+  },
+  {
+    "date": "2025.02.05",
+    "no": "No.2025-09",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-09.pdf"
+  },
+  {
+    "date": "2025.02.05",
+    "no": "No.2025-08",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/02/info2025-08.pdf"
+  },
+  {
+    "date": "2025.02.05",
+    "no": "No.2025-07",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/02/info2025-07.pdf"
+  },
+  {
+    "date": "2025.01.29",
+    "no": "No.2025-06",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-06.pdf"
+  },
+  {
+    "date": "2025.01.29",
+    "no": "No.2025-05",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-05.pdf"
+  },
+  {
+    "date": "2025.01.27",
+    "no": "No.2025-04",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-04.pdf"
+  },
+  {
+    "date": "2025.01.22",
+    "no": "No.2025-03",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-03.pdf"
+  },
+  {
+    "date": "2025.01.09",
+    "no": "No.2025-02",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-02.pdf"
+  },
+  {
+    "date": "2025.01.07",
+    "no": "No.2025-01",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-01.pdf"
+  },
+  {
+    "date": "2024.12.18",
+    "no": "No.2024-50",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/12/info2024-50.pdf"
+  },
+  {
+    "date": "2024.12.18",
+    "no": "No.2024-49",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/12/info2024-49.pdf"
+  },
+  {
+    "date": "2024.12.02",
+    "no": "No.2024-48",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-48.pdf"
+  },
+  {
+    "date": "2024.11.29",
+    "no": "No.2024-47",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-47.pdf"
+  },
+  {
+    "date": "2024.11.27",
+    "no": "No.2024-46",
+    "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
+    "category": "業務日程",
+    "summary": "年末年始の業務日程および保存不適検体の年内最終受付日の案内。",
+    "keywords": "年末年始 業務日程 保存不適検体 受付日 休日",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-46.pdf"
+  },
+  {
+    "date": "2024.11.21",
+    "no": "No.2024-45",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-45.pdf"
+  },
+  {
+    "date": "2024.11.21",
+    "no": "No.2024-44",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-44.pdf"
+  },
+  {
+    "date": "2024.11.06",
+    "no": "No.2024-43",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-43.pdf"
+  },
+  {
+    "date": "2024.11.01",
+    "no": "—",
+    "title": "岡山県内及び周辺地域における薬剤耐性菌の分子疫学調査参加のお知らせ",
+    "category": "その他",
+    "summary": "（株）岡山医学検査センターは岡山大学病院 感染症内科と共同で「岡山県内および周辺地域に\r\nおける薬剤耐性菌の分子疫学調査」を行います。\r\n当社は共同研究機関として参加いたします。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/「岡山県内及び周辺地域における薬剤耐性菌の分子疫学調査」共同研究参加のお知らせ.pdf"
+  },
+  {
+    "date": "2024.11.01",
+    "no": "No.2024-42",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-42.pdf"
+  },
+  {
+    "date": "2024.11.01",
+    "no": "No.2024-41",
+    "title": "容器変更のお知らせ",
+    "category": "容器変更",
+    "summary": "採血容器等の仕様変更。",
+    "keywords": "採血容器",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-41.pdf"
+  },
+  {
+    "date": "2024.11.01",
+    "no": "—",
+    "title": "岡山県内及び周辺地域における薬剤耐性菌の分子疫学調査参加のお知らせ",
+    "category": "その他",
+    "summary": "薬剤耐性菌の分子疫学調査共同研究参加案内。",
+    "keywords": "薬剤耐性菌 分子疫学調査 共同研究",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-research.pdf"
+  },
+  {
+    "date": "2024.10.21",
+    "no": "No.2024-40",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-40.pdf"
+  },
+  {
+    "date": "2024.10.18",
+    "no": "No.2024-39",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-39.pdf"
+  },
+  {
+    "date": "2024.10.17",
+    "no": "No.2024-38",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-38.pdf"
+  },
+  {
+    "date": "2024.10.11",
+    "no": "No.2024-37",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-37.pdf"
+  },
+  {
+    "date": "2024.10.10",
+    "no": "No.2024-36",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-36.pdf"
+  },
+  {
+    "date": "2024.09.26",
+    "no": "—",
+    "title": "2024.09.26版_活動リスト（ISO 15189認定範囲）",
+    "category": "その他",
+    "summary": "ISO 15189の認定検査室である「株式会社岡山医学検査センター本社ラボ」の認定範囲となる測定項目、サンプル（検査材料）、測定方法、SOP番号、変更点および変更日をご案内申し上げます。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/2024.09.26版_株式会社岡山医学検査センター本社ラボ活動リスト（ISO15189認定範囲）.pdf"
+  },
+  {
+    "date": "2024.09.26",
+    "no": "No.2024-35",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-35.pdf"
+  },
+  {
+    "date": "2024.09.11",
+    "no": "No.2024-34",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-34.pdf"
+  },
+  {
+    "date": "2024.09.06",
+    "no": "No.2024-33",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-33.pdf"
+  },
+  {
+    "date": "2024.08.28",
+    "no": "No.2024-32",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-32.pdf"
+  },
+  {
+    "date": "2024.08.26",
+    "no": "—",
+    "title": "2024.08.26版_苦情処理プロセス",
+    "category": "その他",
+    "summary": "当社の臨床検査および病理検査事業への苦情に対する「苦情処理プロセス」をご案内申し上げます。\r\n当社は、苦情を受けた場合、その内容について迅速に調査し、合理的な期間内に誠意をもって対応いたします。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/2024.08.26版_苦情処理プロセス.pdf"
+  },
+  {
+    "date": "2024.08.20",
+    "no": "No.2024-31",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-31.pdf"
+  },
+  {
+    "date": "2024.08.20",
+    "no": "No.2024-30",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-30.pdf"
+  },
+  {
+    "date": "2024.08.16",
+    "no": "No.2024-29",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-29.pdf"
+  },
+  {
+    "date": "2024.08.13",
+    "no": "No.2024-28",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-28.pdf"
+  },
+  {
+    "date": "2024.08.07",
+    "no": "No.2024-27",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-27.pdf"
+  },
+  {
+    "date": "2024.07.25",
+    "no": "No.2024-26",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/07/info2024-26.pdf"
+  },
+  {
+    "date": "2024.07.17",
+    "no": "No.2024-25",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/07/info2024-25.pdf"
+  },
+  {
+    "date": "2024.06.14",
+    "no": "No.2024-24",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-24.pdf"
+  },
+  {
+    "date": "2024.06.14",
+    "no": "No.2024-23",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-23.pdf"
+  },
+  {
+    "date": "2024.06.13",
+    "no": "No.2024-22",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-22.pdf"
+  },
+  {
+    "date": "2024.06.13",
+    "no": "No.2024-21",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-21.pdf"
+  },
+  {
+    "date": "2024.06.12",
+    "no": "No.2024-20",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-20.pdf"
+  },
+  {
+    "date": "2024.06.10",
+    "no": "—",
+    "title": "2024.06.01版_活動リスト（ISO 15189認定範囲）",
+    "category": "その他",
+    "summary": "ISO 15189の認定検査室である『株式会社岡山医学検査センター本社ラボ』の認定範囲となる測定項目、サンプル（検査材料）、測定方法、SOP番号、変更点および変更日をご案内申し上げます。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/2024.06.01版_株式会社岡山医学検査センター本社ラボ活動リスト（ISO15189認定範囲）.pdf"
+  },
+  {
+    "date": "2024.05.28",
+    "no": "No.2024-19",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-19.pdf"
+  },
+  {
+    "date": "2024.05.14",
+    "no": "No.2024-18",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-18.pdf"
+  },
+  {
+    "date": "2024.05.14",
+    "no": "No.2024-17",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-17.pdf"
+  },
+  {
+    "date": "2024.04.23",
+    "no": "No.2024-16",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/04/info2024-16.pdf"
+  },
+  {
+    "date": "2024.04.11",
+    "no": "No.2024-15",
+    "title": "ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査について",
+    "category": "業務日程",
+    "summary": "ゴールデンウィーク期間の受託日程および休日緊急検査の案内。",
+    "keywords": "ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/04/info2024-15.pdf"
+  },
+  {
+    "date": "2024.03.18",
+    "no": "No.2024-14",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-14.pdf"
+  },
+  {
+    "date": "2024.03.14",
+    "no": "No.2024-13",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-13.pdf"
+  },
+  {
+    "date": "2024.03.11",
+    "no": "—",
+    "title": "2024.03.11版_活動リスト（ISO 15189認定範囲）",
+    "category": "その他",
+    "summary": "ISO 15189の認定検査室である「株式会社岡山医学検査センター本社ラボ」の認定範囲となる測定項目、サンプル（検査材料）、測定方法、SOP番号、変更点および変更日をご案内申し上げます。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/2024.03.11版_株式会社岡山医学検査センター本社ラボ活動リスト（ISO15189認定範囲）.pdf"
+  },
+  {
+    "date": "2024.03.11",
+    "no": "No.2024-12",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-12.pdf"
+  },
+  {
+    "date": "2024.03.11",
+    "no": "No.2024-11",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-11.pdf"
+  },
+  {
+    "date": "2024.03.07",
+    "no": "No.2024-10",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-10.pdf"
+  },
+  {
+    "date": "2024.03.05",
+    "no": "No.2024-09",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-09.pdf"
+  },
+  {
+    "date": "2024.03.04",
+    "no": "No.2024-08",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-08.pdf"
+  },
+  {
+    "date": "2024.02.29",
+    "no": "No.2024-07",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-07.pdf"
+  },
+  {
+    "date": "2024.02.26",
+    "no": "No.2024-06",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-06.pdf"
+  },
+  {
+    "date": "2024.02.21",
+    "no": "No.2024-05",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-05.pdf"
+  },
+  {
+    "date": "2024.02.07",
+    "no": "No.2024-04",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-04.pdf"
+  },
+  {
+    "date": "2024.01.25",
+    "no": "No.2024-03",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-03.pdf"
+  },
+  {
+    "date": "2024.01.25",
+    "no": "No.2024-02",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-02.pdf"
+  },
+  {
+    "date": "2024.01.22",
+    "no": "No.2024-01",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-01.pdf"
+  },
+  {
+    "date": "2023.12.27",
+    "no": "No.2023-56",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-56.pdf"
+  },
+  {
+    "date": "2023.12.25",
+    "no": "No.2023-55",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-55.pdf"
+  },
+  {
+    "date": "2023.12.20",
+    "no": "No.2023-54",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-54.pdf"
+  },
+  {
+    "date": "2023.12.20",
+    "no": "No.2023-53",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-53.pdf"
+  },
+  {
+    "date": "2023.12.19",
+    "no": "No.2023-52",
+    "title": "測定機器および試薬変更のお知らせ",
+    "category": "内容変更",
+    "summary": "測定機器および試薬の変更。",
+    "keywords": "測定機器 試薬変更",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-52.pdf"
+  },
+  {
+    "date": "2023.12.11",
+    "no": "No.2023-51",
+    "title": "報告名称変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査報告の名称変更。",
+    "keywords": "報告名称変更",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-51.pdf"
+  },
+  {
+    "date": "2023.11.24",
+    "no": "No.2023-50",
+    "title": "年末年始の休日緊急検査のお知らせ",
+    "category": "業務日程",
+    "summary": "年末年始の休日緊急検査案内。",
+    "keywords": "年末年始 休日 緊急検査 業務日程",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-50.pdf"
+  },
+  {
+    "date": "2023.11.24",
+    "no": "No.2023-49",
+    "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
+    "category": "業務日程",
+    "summary": "年末年始の業務日程および保存不適検体の年内最終受付日の案内。",
+    "keywords": "年末年始 業務日程 保存不適検体 受付日 休日",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-49.pdf"
+  },
+  {
+    "date": "2023.11.21",
+    "no": "No.2023-48",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-48.pdf"
+  },
+  {
+    "date": "2023.11.20",
+    "no": "No.2023-47",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-47.pdf"
+  },
+  {
+    "date": "2023.10.12",
+    "no": "No.2023-46",
+    "title": "抗酸菌同定（質量分析法）の検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "抗酸菌同定（質量分析法）の検査内容変更。",
+    "keywords": "抗酸菌 質量分析法 同定",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/10/info2023-46.pdf"
+  },
+  {
+    "date": "2023.10.05",
+    "no": "No.2023-45",
+    "title": "凝固線溶系検査の規定量不足に対するコメント付記のお知らせ",
+    "category": "内容変更",
+    "summary": "凝固線溶系検査の規定量不足へのコメント付記対応。",
+    "keywords": "凝固線溶系 規定量不足 コメント",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/10/info2023-45.pdf"
+  },
+  {
+    "date": "2023.09.27",
+    "no": "No.2023-44",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-44.pdf"
+  },
+  {
+    "date": "2023.09.27",
+    "no": "No.2023-43",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-43.pdf"
+  },
+  {
+    "date": "2023.09.15",
+    "no": "No.2023-42",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-42.pdf"
+  },
+  {
+    "date": "2023.08.17",
+    "no": "No.2023-41",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-41.pdf"
+  },
+  {
+    "date": "2023.08.17",
+    "no": "No.2023-40",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-40.pdf"
+  },
+  {
+    "date": "2023.08.10",
+    "no": "No.2023-39",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-39.pdf"
+  },
+  {
+    "date": "2023.08.10",
+    "no": "No.2023-38",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-38.pdf"
+  },
+  {
+    "date": "2023.08.10",
+    "no": "No.2023-37",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-37.pdf"
+  },
+  {
+    "date": "2023.08.04",
+    "no": "No.2023-36",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-36.pdf"
+  },
+  {
+    "date": "2023.08.04",
+    "no": "No.2023-35",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-35.pdf"
+  },
+  {
+    "date": "2023.07.18",
+    "no": "No.2023-34",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-34.pdf"
+  },
+  {
+    "date": "2023.07.13",
+    "no": "No.2023-33",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-33.pdf"
+  },
+  {
+    "date": "2023.07.13",
+    "no": "No.2023-32",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-32.pdf"
+  },
+  {
+    "date": "2023.07.13",
+    "no": "No.2023-31",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-31.pdf"
+  },
+  {
+    "date": "2023.06.28",
+    "no": "No.2023-30",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-30.pdf"
+  },
+  {
+    "date": "2023.06.21",
+    "no": "No.2023-29",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-29.pdf"
+  },
+  {
+    "date": "2023.06.21",
+    "no": "No.2023-28",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-28.pdf"
+  },
+  {
+    "date": "2023.06.15",
+    "no": "No.2023-27",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-27.pdf"
+  },
+  {
+    "date": "2023.06.08",
+    "no": "No.2023-26",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-26.pdf"
+  },
+  {
+    "date": "2023.05.22",
+    "no": "No.2023-25",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-25.pdf"
+  },
+  {
+    "date": "2023.05.17",
+    "no": "No.2023-24",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-24.pdf"
+  },
+  {
+    "date": "2023.05.15",
+    "no": "No.2023-23",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-23.pdf"
+  },
+  {
+    "date": "2023.05.15",
+    "no": "No.2023-22",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-22.pdf"
+  },
+  {
+    "date": "2023.05.11",
+    "no": "No.2023-21",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-21.pdf"
+  },
+  {
+    "date": "2023.04.21",
+    "no": "No.2023-20",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-20.pdf"
+  },
+  {
+    "date": "2023.04.21",
+    "no": "No.2023-19",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-19.pdf"
+  },
+  {
+    "date": "2023.04.20",
+    "no": "No.2023-18",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-18.pdf"
+  },
+  {
+    "date": "2023.04.20",
+    "no": "No.2023-17",
+    "title": "「甲状腺機能 検査チャート」改訂のお知らせ",
+    "category": "内容変更",
+    "summary": "甲状腺機能検査チャートの改訂。",
+    "keywords": "甲状腺 甲状腺機能 検査チャート",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-17.pdf"
+  },
+  {
+    "date": "2023.04.17",
+    "no": "No.2023-16",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-16.pdf"
+  },
+  {
+    "date": "2023.04.11",
+    "no": "No.2023-15",
+    "title": "ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査について",
+    "category": "業務日程",
+    "summary": "ゴールデンウィーク期間の受託日程および休日緊急検査の案内。",
+    "keywords": "ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-15.pdf"
+  },
+  {
+    "date": "2023.03.29",
+    "no": "No.2023-14",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-14.pdf"
+  },
+  {
+    "date": "2023.03.18",
+    "no": "No.2023-13",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-13.pdf"
+  },
+  {
+    "date": "2023.03.04",
+    "no": "No.2023-12",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-12.pdf"
+  },
+  {
+    "date": "2023.03.03",
+    "no": "No.2023-11",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-11.pdf"
+  },
+  {
+    "date": "2023.03.02",
+    "no": "No.2023-10",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-10.pdf"
+  },
+  {
+    "date": "2023.02.25",
+    "no": "No.2023-09",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-09.pdf"
+  },
+  {
+    "date": "2023.02.22",
+    "no": "No.2023-08",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-08.pdf"
+  },
+  {
+    "date": "2023.02.17",
+    "no": "No.2023-07",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-07.pdf"
+  },
+  {
+    "date": "2023.02.17",
+    "no": "No.2023-06",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-06.pdf"
+  },
+  {
+    "date": "2023.02.08",
+    "no": "No.2023-05",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-05.pdf"
+  },
+  {
+    "date": "2023.02.06",
+    "no": "No.2023-04",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-04.pdf"
+  },
+  {
+    "date": "2023.02.06",
+    "no": "No.2023-03",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-03.pdf"
+  },
+  {
+    "date": "2023.01.30",
+    "no": "No.2023-02",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/01/info2023-02.pdf"
+  },
+  {
+    "date": "2023.01.16",
+    "no": "No.2023-01",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/01/info2023-01.pdf"
+  },
+  {
+    "date": "2022.12.28",
+    "no": "No.2022-54",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-54.pdf"
+  },
+  {
+    "date": "2022.12.28",
+    "no": "No.2022-53",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-53.pdf"
+  },
+  {
+    "date": "2022.12.28",
+    "no": "No.2022-52",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-52.pdf"
+  },
+  {
+    "date": "2022.12.26",
+    "no": "No.2022-51",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-51.pdf"
+  },
+  {
+    "date": "2022.12.26",
+    "no": "No.2022-50",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-50.pdf"
+  },
+  {
+    "date": "2022.12.26",
+    "no": "No.2022-49",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-49.pdf"
+  },
+  {
+    "date": "2022.12.20",
+    "no": "No.2022-48",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-48.pdf"
+  },
+  {
+    "date": "2022.12.19",
+    "no": "No.2022-47",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-47.pdf"
+  },
+  {
+    "date": "2022.12.13",
+    "no": "No.2022-46",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-46.pdf"
+  },
+  {
+    "date": "2022.12.05",
+    "no": "No.2022-45",
+    "title": "測定機器および試薬変更のお知らせ",
+    "category": "内容変更",
+    "summary": "測定機器および試薬の変更。",
+    "keywords": "測定機器 試薬変更",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-45.pdf"
+  },
+  {
+    "date": "2022.12.05",
+    "no": "No.2022-44",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-44.pdf"
+  },
+  {
+    "date": "2022.12.01",
+    "no": "No.2022-43",
+    "title": "年末年始の休日緊急検査のお知らせ",
+    "category": "業務日程",
+    "summary": "年末年始の休日緊急検査案内。",
+    "keywords": "年末年始 休日 緊急検査",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-43.pdf"
+  },
+  {
+    "date": "2022.12.01",
+    "no": "No.2022-42",
+    "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
+    "category": "業務日程",
+    "summary": "年末年始の業務日程案内。",
+    "keywords": "年末年始 業務日程 保存不適検体 受付日",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-42-1.pdf"
+  },
+  {
+    "date": "2022.12.01",
+    "no": "No.2022-41",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-41.pdf"
+  },
+  {
+    "date": "2022.11.21",
+    "no": "No.2022-40",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-40.pdf"
+  },
+  {
+    "date": "2022.11.16",
+    "no": "No.2022-39",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-39.pdf"
+  },
+  {
+    "date": "2022.11.16",
+    "no": "No.2022-38",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-38.pdf"
+  },
+  {
+    "date": "2022.10.29",
+    "no": "No.2022-37",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-37.pdf"
+  },
+  {
+    "date": "2022.10.26",
+    "no": "No.2022-36",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-36.pdf"
+  },
+  {
+    "date": "2022.10.13",
+    "no": "No.2022-35",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/10/info2022-35.pdf"
+  },
+  {
+    "date": "2022.10.07",
+    "no": "No.2022-34",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/10/info2022-34.pdf"
+  },
+  {
+    "date": "2022.09.26",
+    "no": "No.2022-33",
+    "title": "アレルゲン検査チャート改訂のお知らせ",
+    "category": "内容変更",
+    "summary": "アレルゲン検査チャートの改訂。",
+    "keywords": "アレルゲン アレルギー 検査チャート",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-33.pdf"
+  },
+  {
+    "date": "2022.09.17",
+    "no": "No.2022-32",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-32.pdf"
+  },
+  {
+    "date": "2022.09.17",
+    "no": "No.2022-31",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-31.pdf"
+  },
+  {
+    "date": "2022.09.05",
+    "no": "No.2022-30",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-30.pdf"
+  },
+  {
+    "date": "2022.09.02",
+    "no": "No.2022-29",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-29.pdf"
+  },
+  {
+    "date": "2022.08.31",
+    "no": "No.2022-28",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-28.pdf"
+  },
+  {
+    "date": "2022.07.13",
+    "no": "No.2022-27",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-27.pdf"
+  },
+  {
+    "date": "2022.07.13",
+    "no": "No.2022-26",
+    "title": "報告遅延解消のお知らせ",
+    "category": "その他",
+    "summary": "検査結果報告遅延の解消。",
+    "keywords": "報告遅延 解消",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-26.pdf"
+  },
+  {
+    "date": "2022.06.24",
+    "no": "No.2022-25",
+    "title": "検査結果報告遅延のお知らせ",
+    "category": "その他",
+    "summary": "検査結果報告遅延のお知らせ。",
+    "keywords": "報告遅延",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-25.pdf"
+  },
+  {
+    "date": "2022.06.23",
+    "no": "No.2022-24",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-24.pdf"
+  },
+  {
+    "date": "2022.06.13",
+    "no": "No.2022-23",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-23.pdf"
+  },
+  {
+    "date": "2022.05.27",
+    "no": "No.2022-22",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-22.pdf"
+  },
+  {
+    "date": "2022.05.27",
+    "no": "No.2022-21",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-21.pdf"
+  },
+  {
+    "date": "2022.05.23",
+    "no": "No.2022-20",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-20.pdf"
+  },
+  {
+    "date": "2022.05.23",
+    "no": "No.2022-19",
+    "title": "基準範囲表記変更のお知らせ",
+    "category": "内容変更",
+    "summary": "基準範囲の表記変更。",
+    "keywords": "基準範囲 表記変更",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-19.pdf"
+  },
+  {
+    "date": "2022.05.21",
+    "no": "No.2022-18",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-18.pdf"
+  },
+  {
+    "date": "2022.04.27",
+    "no": "No.2022-17",
+    "title": "令和4年度診療報酬改定に関するお知らせ",
+    "category": "実施料",
+    "summary": "令和4年度診療報酬改定に関するお知らせ。",
+    "keywords": "診療報酬改定 令和4年度",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-17.pdf"
+  },
+  {
+    "date": "2022.04.19",
+    "no": "No.2022-16",
+    "title": "報告遅延解消のお知らせ",
+    "category": "その他",
+    "summary": "検査結果報告遅延の解消。",
+    "keywords": "報告遅延 解消",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-16.pdf"
+  },
+  {
+    "date": "2022.04.19",
+    "no": "No.2022-15",
+    "title": "ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査についてのお知らせ",
+    "category": "業務日程",
+    "summary": "ゴールデンウィーク期間の受託日程および休日緊急検査の案内。",
+    "keywords": "ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-15.pdf"
+  },
+  {
+    "date": "2022.04.13",
+    "no": "No.2022-14",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-14.pdf"
+  },
+  {
+    "date": "2022.03.30",
+    "no": "No.2022-13",
+    "title": "検査結果報告遅延のお知らせ",
+    "category": "その他",
+    "summary": "検査結果報告遅延のお知らせ。",
+    "keywords": "報告遅延",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-13.pdf"
+  },
+  {
+    "date": "2022.03.30",
+    "no": "No.2022-12",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-12.pdf"
+  },
+  {
+    "date": "2022.03.24",
+    "no": "No.2022-11",
+    "title": "検査一時受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-11.pdf"
+  },
+  {
+    "date": "2022.03.22",
+    "no": "No.2022-10",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-10.pdf"
+  },
+  {
+    "date": "2022.02.28",
+    "no": "No.2022-09",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-09.pdf"
+  },
+  {
+    "date": "2022.02.28",
+    "no": "No.2022-08",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-08.pdf"
+  },
+  {
+    "date": "2022.02.24",
+    "no": "No.2022-07",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-07.pdf"
+  },
+  {
+    "date": "2022.02.22",
+    "no": "No.2022-06",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-06.pdf"
+  },
+  {
+    "date": "2022.01.31",
+    "no": "No.2022-05",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-05.pdf"
+  },
+  {
+    "date": "2022.01.25",
+    "no": "No.2022-04",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-04.pdf"
+  },
+  {
+    "date": "2022.01.22",
+    "no": "No.2022-03",
+    "title": "HbA1c（ヘモグロビンA1c）報告書への溶血コメント追記のお知らせ",
+    "category": "内容変更",
+    "summary": "HbA1c報告書への溶血コメント追記対応。",
+    "keywords": "HbA1c ヘモグロビンA1c 溶血 コメント 糖尿病",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-03.pdf"
+  },
+  {
+    "date": "2022.01.19",
+    "no": "No.2022-02",
+    "title": "受託中止項目のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-02.pdf"
+  },
+  {
+    "date": "2022.01.19",
+    "no": "No.2022-01",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-01.pdf"
+  },
+  {
+    "date": "2021.12.22",
+    "no": "No.2021-59",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-59.pdf"
+  },
+  {
+    "date": "2021.12.17",
+    "no": "No.2021-58",
+    "title": "検査項目名変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査項目名称の変更。",
+    "keywords": "項目名変更 名称変更",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-58.pdf"
+  },
+  {
+    "date": "2021.12.15",
+    "no": "No.2021-57",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-57.pdf"
+  },
+  {
+    "date": "2021.12.13",
+    "no": "No.2021-56",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-56.pdf"
+  },
+  {
+    "date": "2021.12.13",
+    "no": "No.2021-55",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-55.pdf"
+  },
+  {
+    "date": "2021.12.03",
+    "no": "No.2021-54",
+    "title": "年末年始の休日緊急検査のお知らせ",
+    "category": "業務日程",
+    "summary": "年末年始の休日緊急検査案内。",
+    "keywords": "年末年始 休日 緊急検査",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-54.pdf"
+  },
+  {
+    "date": "2021.12.03",
+    "no": "No.2021-53",
+    "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
+    "category": "業務日程",
+    "summary": "年末年始の業務日程および保存不適検体の年内最終受付日の案内。",
+    "keywords": "年末年始 業務日程 保存不適検体 受付日 休日",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-53.pdf"
+  },
+  {
+    "date": "2021.12.01",
+    "no": "No.2021-52",
+    "title": "一時受託中止項目のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-52.pdf"
+  },
+  {
+    "date": "2021.11.19",
+    "no": "No.2021-51",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-51.pdf"
+  },
+  {
+    "date": "2021.11.19",
+    "no": "No.2021-50",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-50.pdf"
+  },
+  {
+    "date": "2021.11.12",
+    "no": "No.2021-49",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-49.pdf"
+  },
+  {
+    "date": "2021.11.06",
+    "no": "No.2021-48",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-48.pdf"
+  },
+  {
+    "date": "2021.10.23",
+    "no": "No.2021-47",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-47.pdf"
+  },
+  {
+    "date": "2021.10.20",
+    "no": "No.2021-46",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-46.pdf"
+  },
+  {
+    "date": "2021.10.20",
+    "no": "No.2021-45",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-45.pdf"
+  },
+  {
+    "date": "2021.09.29",
+    "no": "No.2021-44",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-44.pdf"
+  },
+  {
+    "date": "2021.09.21",
+    "no": "No.2021-43",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-43.pdf"
+  },
+  {
+    "date": "2021.09.21",
+    "no": "No.2021-42",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-42.pdf"
+  },
+  {
+    "date": "2021.09.15",
+    "no": "No.2021-41",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-41.pdf"
+  },
+  {
+    "date": "2021.09.14",
+    "no": "No.2021-40",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-40.pdf"
+  },
+  {
+    "date": "2021.09.10",
+    "no": "No.2021-39",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-39.pdf"
+  },
+  {
+    "date": "2021.09.03",
+    "no": "No.2021-38",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-38.pdf"
+  },
+  {
+    "date": "2021.08.28",
+    "no": "No.2021-37",
+    "title": "検査受託再開のお知らせ",
+    "category": "新規受託",
+    "summary": "受託再開項目のお知らせ。",
+    "keywords": "受託再開",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-37.pdf"
+  },
+  {
+    "date": "2021.08.25",
+    "no": "No.2021-36",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-36.pdf"
+  },
+  {
+    "date": "2021.08.25",
+    "no": "No.2021-35",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-35.pdf"
+  },
+  {
+    "date": "2021.08.25",
+    "no": "No.2021-34",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-34.pdf"
+  },
+  {
+    "date": "2021.08.17",
+    "no": "No.2021-33",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-33.pdf"
+  },
+  {
+    "date": "2021.08.17",
+    "no": "No.2021-32",
+    "title": "受託中止項目のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-32.pdf"
+  },
+  {
+    "date": "2021.08.06",
+    "no": "No.2021-31",
+    "title": "一時受託中止項目のお知らせ",
+    "category": "受託中止",
+    "summary": "一時受託中止項目のお知らせ。",
+    "keywords": "一時",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-31.pdf"
+  },
+  {
+    "date": "2021.07.27",
+    "no": "No.2021-30",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-30.pdf"
+  },
+  {
+    "date": "2021.07.17",
+    "no": "No.2021-29",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-29.pdf"
+  },
+  {
+    "date": "2021.07.05",
+    "no": "No.2021-28",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-28.pdf"
+  },
+  {
+    "date": "2021.06.30",
+    "no": "No.2021-27",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-27.pdf"
+  },
+  {
+    "date": "2021.06.30",
+    "no": "No.2021-26",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-26.pdf"
+  },
+  {
+    "date": "2021.06.23",
+    "no": "No.2021-25",
+    "title": "祝日変更に伴う弊社業務日程について",
+    "category": "業務日程",
+    "summary": "祝日変更に伴う業務日程案内。",
+    "keywords": "祝日 業務日程",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-25.pdf"
+  },
+  {
+    "date": "2021.06.16",
+    "no": "No.2021-24",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-24.pdf"
+  },
+  {
+    "date": "2021.05.31",
+    "no": "No.2021-23",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-23.pdf"
+  },
+  {
+    "date": "2021.05.19",
+    "no": "No.2021-22",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "検査内容の変更。",
+    "keywords": "測定方法 試薬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-22.pdf"
+  },
+  {
+    "date": "2021.05.07",
+    "no": "No.2021-21",
+    "title": "受託中止項目のお知らせ",
+    "category": "受託中止",
+    "summary": "受託中止項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-21.pdf"
+  },
+  {
+    "date": "2021.05.01",
+    "no": "No.2021-20",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-20.pdf"
+  },
+  {
+    "date": "2021.04.26",
+    "no": "No.2021-19",
+    "title": "検査実施料に関するお知らせ",
+    "category": "実施料",
+    "summary": "検査実施料の変更。",
+    "keywords": "診療報酬",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-19.pdf"
+  },
+  {
+    "date": "2021.04.21",
+    "no": "No.2021-18",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-18.pdf"
+  },
+  {
+    "date": "2021.04.21",
+    "no": "No.2021-17",
+    "title": "新規受託項目のお知らせ",
+    "category": "新規受託",
+    "summary": "新規受託開始項目のお知らせ。",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-17.pdf"
+  }
 ]
