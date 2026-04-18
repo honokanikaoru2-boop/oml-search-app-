@@ -4,7 +4,7 @@
     "no": "No.2026-13",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "Guardant360 CDx がん遺伝子パネルの検査料金変更。",
+    "summary": "悪性腫瘍遺伝子検査（血液・血漿）[販売名：Guardant360 CDxがん遺伝子パネル] がんゲノムプロファイリング検査[販売名：Guardant360 CDxがん遺伝子パネル]",
     "keywords": "検査実施料 Guardant360 CDx がん遺伝子パネル 診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-13.pdf"
   },
@@ -13,7 +13,7 @@
     "no": "No.2026-12",
     "title": "多剤耐性緑膿菌の判定基準変更のお知らせ",
     "category": "内容変更",
-    "summary": "厚生労働省通知（感感発0205第2号）に基づき、一般細菌検査の薬剤感受性試験における多剤耐性緑膿菌の判定基準を変更。変更日：2026年4月6日より。",
+    "summary": "一般細菌検査 薬剤感受性試験：多剤耐性緑膿菌の判定基準変更",
     "keywords": "多剤耐性緑膿菌 薬剤感受性試験 イミペネム メロペネム アミカシン シプロフロキサシン レボフロキサシン IPM MEPM AMK CPFX LVFX カルバペネム フルオロキノロン 細菌検査 感染症 MIC DISK 判定基準 届出基準 全数把握疾患",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-12.pdf",
     "highlight": true
@@ -23,7 +23,7 @@
     "no": "No.2026-11",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "HPV簡易遺伝子型検査の新規受託開始。",
+    "summary": "HPV簡易遺伝子型（6遺伝子、3グループ判別）[HPV簡易遺伝子型9種]",
     "keywords": "HPV ヒトパピローマウイルス 遺伝子型 遺伝子検査",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-11.pdf"
   },
@@ -32,7 +32,7 @@
     "no": "No.2026-10",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "複数の検査項目の測定方法等の変更。",
+    "summary": "鼻汁喀痰中好酸球検査、穿刺液一般検査〈胸水・腹水〉、肺ｻｰﾌｧｸﾀﾝﾄﾌﾟﾛﾃｲﾝA（SP-A）、甲状腺刺激ホルモン（TSH）、遊離ﾄﾘﾖｰﾄﾞｻｲﾛﾆﾝ（FT3）、抗甲状腺ﾍﾟﾙｵｷｼﾀﾞｰｾﾞ抗体（抗TPO抗体）、プロカルシトニン（PCT）、神経特異エノラーゼ（NSE）、エラスラーゼ1、HA抗体、IgM-HA抗体",
     "keywords": "測定方法 試薬変更",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-10.pdf"
   },
@@ -41,7 +41,7 @@
     "no": "No.2026-09",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "風疹ウイルス抗体/LA法の受託中止。",
+    "summary": "風疹ウイルス抗体/LA法",
     "keywords": "風疹ウイルス 抗体 LA法",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/03/info2026-09.pdf"
   },
@@ -50,7 +50,7 @@
     "no": "No.2026-08",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "トキソプラズマIgG抗体アビディティー、抗AAVｒｈ74抗体、ウイルス・細菌核酸及び薬剤耐性遺伝子多項目同時検出（喀痰/気管支肺胞洗浄液）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/02/info2026-08.pdf"
   },
@@ -59,7 +59,7 @@
     "no": "No.2026-07",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "プロテインC活性、コプロポルフィリン定性〈尿〉、肺サーファクタントプロテインD（SP-D）、カルプロテクチン（便中）/FEIA、ムンプスウイルス抗体/HI、ムンプスウイルス抗体/CF、HPV-DNA同定/ﾊｲﾌﾞﾘｯﾄﾞｷｬﾌﾟﾁｬｰ法（中～高ﾘｽｸ型）、HPV-DNA同定/ﾊｲﾌﾞﾘｯﾄﾞｷｬﾌﾟﾁｬｰ法（低ﾘｽｸ型）、特異的IgE エチレンオキサイド、ミラー・ディカー症候群（17番染色体） 他",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/02/info2026-07.pdf"
   },
@@ -68,7 +68,7 @@
     "no": "No.2026-06",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "SP-D（肺サーファクタント蛋白D）/ラテックス凝集比濁法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-06.pdf"
   },
@@ -77,7 +77,7 @@
     "no": "No.2026-05",
     "title": "容器変更のお知らせ",
     "category": "容器変更",
-    "summary": "採血容器等の仕様変更。",
+    "summary": "〈容器記号 H〉尿用試験管（未滅菌）、〈容器No.1〉血清・血漿分離容器、〈容器No.47〉EDTA-2Na入り遮光容器の変更",
     "keywords": "採血容器",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-05.pdf"
   },
@@ -86,7 +86,7 @@
     "no": "No.2026-04",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "便中カルプロテクチン/ラテックス凝集比濁法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-04.pdf"
   },
@@ -95,7 +95,7 @@
     "no": "No.2026-03",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "プロテインC活性",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-03.pdf"
   },
@@ -104,7 +104,7 @@
     "no": "No.2026-02",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "オンコマインマルチCDx 7遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-02.pdf"
   },
@@ -113,7 +113,7 @@
     "no": "No.2026-01",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "オンコマインマルチCDx 8遺伝子（CDx報告）、オンコマインマルチCDx 8遺伝子（CDx、未承認報告）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/01/info2026-01.pdf"
   },
@@ -122,7 +122,7 @@
     "no": "No.2025-53",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "一時中止していた検査の受託再開。",
+    "summary": "NK細胞活性",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-53.pdf"
   },
@@ -131,7 +131,7 @@
     "no": "No.2025-52",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "抗NF155抗体、抗CNTN1抗体、RSウイルス核酸検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-52.pdf"
   },
@@ -140,7 +140,7 @@
     "no": "No.2025-51",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "抗副腎皮質抗体",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-51.pdf"
   },
@@ -149,7 +149,7 @@
     "no": "No.2025-50",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "赤痢アメーバ抗体/EIA法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-50.pdf"
   },
@@ -158,7 +158,7 @@
     "no": "No.2025-49",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "髄液中181位リン酸化タウ蛋白/アミロイドβ1-42比",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/12/info2025-49.pdf"
   },
@@ -167,7 +167,7 @@
     "no": "No.2025-48",
     "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
     "category": "業務日程",
-    "summary": "年末年始の業務日程および保存不適検体の年内最終受付日の案内。",
+    "summary": "年末年始の業務日程、保存不適検体の年内最終受付日および年内報告可能最終受付日・年内最終受付日のお知らせ",
     "keywords": "年末年始 業務日程 保存不適検体 受付日 休日",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-48.pdf"
   },
@@ -176,7 +176,7 @@
     "no": "No.2025-47",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "検査内容変更のお知らせ",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-47.pdf"
   },
@@ -185,7 +185,7 @@
     "no": "No.2025-46",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "赤痢アメーバ抗体定性",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-46.pdf"
   },
@@ -194,7 +194,7 @@
     "no": "No.2025-45",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容（測定方法・試薬等）の変更。",
+    "summary": "精液一般検査",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-45.pdf"
   },
@@ -203,7 +203,7 @@
     "no": "No.2025-44",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "NK細胞活性",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/11/info2025-44.pdf"
   },
@@ -212,7 +212,7 @@
     "no": "—",
     "title": "「メチシリン感受性黄色ブドウ球菌に対するイノキュラムエフェクト陽性株の疫学調査」 共同研究参加のお知らせ",
     "category": "その他",
-    "summary": "株式会社岡山医学検査センターは岡山大学病院 感染症内科と共同で「メチシリン感受性黄色ブド\r\nウ球菌に対するイノキュラムエフェクト陽性株の疫学調査」を行います。当社は共同研究機関として\r\n参加致します。",
+    "summary": "株式会社岡山医学検査センターは岡山大学病院 感染症内科と共同で「メチシリン感受性黄色ブド ウ球菌に対するイノキュラムエフェクト陽性株の疫学調査」を行います。当社は共同研究機関として 参加致します。",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/【承認済】情報公開文書_岡山医学ホームページ掲載文_岡大IRB承認済_岡山医学承認済_20251025.pdf"
   },
@@ -230,7 +230,7 @@
     "no": "No.2025-43",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "ムンプスウイルス抗体/HI法、ムンプスウイルス抗体/CF法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-43.pdf"
   },
@@ -257,7 +257,7 @@
     "no": "No.2025-42",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "FGFR3遺伝子解析",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-42.pdf"
   },
@@ -266,7 +266,7 @@
     "no": "No.2025-41",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "IDH1遺伝子変異解析",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/10/info2025-41.pdf"
   },
@@ -275,7 +275,7 @@
     "no": "—",
     "title": "2024.08.26版_苦情処理プロセス（ISO 15189認定範囲）",
     "category": "その他",
-    "summary": "当社の臨床検査および病理検査事業への苦情に対する「苦情処理プロセス」をご案内申し上げます。\r\n当社は、苦情を受けた場合、その内容について迅速に調査し、合理的な期間内に誠意をもって対応いたします。",
+    "summary": "当社の臨床検査および病理検査事業への苦情に対する「苦情処理プロセス」をご案内申し上げます。 当社は、苦情を受けた場合、その内容について迅速に調査し、合理的な期間内に誠意をもって対応いたします。",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/2024.08.26版_苦情処理プロセス-1.pdf"
   },
@@ -284,7 +284,7 @@
     "no": "No.2025-40",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "遊離テストステロン/RIA法",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-40.pdf"
   },
@@ -293,7 +293,7 @@
     "no": "No.2025-39",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "尿路上皮癌におけるFGFR3遺伝子検査、IDH1遺伝子検査、リン酸化タウ蛋白/アミロイドβ42比（髄液）、コンシズマブ血中濃度測定、HER2タンパク",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-39.pdf"
   },
@@ -302,7 +302,7 @@
     "no": "No.2025-38",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "遊離βHCG（HCGβサブユニット）",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-38.pdf"
   },
@@ -311,7 +311,7 @@
     "no": "No.2025-37",
     "title": "容器変更のお知らせ",
     "category": "容器変更",
-    "summary": "採血容器等の仕様変更。",
+    "summary": "サイトメガロウイルス核酸定量",
     "keywords": "採血容器",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/09/info2025-37.pdf"
   },
@@ -320,7 +320,7 @@
     "no": "No.2025-36",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "遊離テストステロン/RIA法",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-36.pdf"
   },
@@ -329,7 +329,7 @@
     "no": "No.2025-35",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "HLA-A,B、HLA-DR、HLA-A遺伝子型、HLA-B遺伝子型、HLA-C遺伝子型、HLA-DRB1遺伝子型、HLA-DPB1遺伝子型、HLA-DQA1遺伝子型、HLA-DQB1遺伝子型",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-35.pdf"
   },
@@ -338,7 +338,7 @@
     "no": "No.2025-34",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "HLA-A遺伝子型、HLA-B遺伝子型、HLA-C遺伝子型、HLA-DRB1遺伝子型、HLA-DPB1遺伝子型、HLA-DQA1遺伝子型、HLA-DQB1遺伝子型",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-34.pdf"
   },
@@ -347,7 +347,7 @@
     "no": "No.2025-33",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "虫体検出検査",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-33.pdf"
   },
@@ -356,7 +356,7 @@
     "no": "No.2025-32",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "便中ヘモグロビン及びトランスフェリン、リパーゼ、マラリア原虫、虫卵塗抹法、虫卵集卵法、赤痢アメーバ、 ICG停滞率、ICG消失率、ヒト絨毛性ゴナドトロピン（HCG）-血清・尿",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-32.pdf"
   },
@@ -365,7 +365,7 @@
     "no": "No.2025-31",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "エムポックスウイルス核酸検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/08/info2025-31.pdf"
   },
@@ -374,7 +374,7 @@
     "no": "No.2025-30",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "シアリルTn抗原（STN）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-30.pdf"
   },
@@ -383,7 +383,7 @@
     "no": "No.2025-29",
     "title": "細胞診婦人科材料（SurePath法以外）",
     "category": "内容変更",
-    "summary": "細胞診婦人科材料の検査内容変更。",
+    "summary": "細胞診婦人科材料（SurePath法以外）",
     "keywords": "細胞診 婦人科 SurePath",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-29.pdf"
   },
@@ -392,7 +392,7 @@
     "no": "No.2025-28",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "クラミジア・トラコマチス核酸検出、淋菌核酸検出、淋菌及びクラミジア・トラコマチス同時核酸検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/07/info2025-28.pdf"
   },
@@ -401,7 +401,7 @@
     "no": "No.2025-27",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "百日咳菌IgM抗体、百日咳菌IgA抗体",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-27.pdf"
   },
@@ -410,7 +410,7 @@
     "no": "No.2025-26",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "DNAメチル化検出検査",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-26.pdf"
   },
@@ -419,7 +419,7 @@
     "no": "No.2025-25",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "大腸癌メチル化検出",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/06/info2025-25.pdf"
   },
@@ -428,7 +428,7 @@
     "no": "No.2025-24",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "抗酸菌 薬剤感受性試験4薬剤以上（結核菌群用）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-24.pdf"
   },
@@ -437,7 +437,7 @@
     "no": "No.2025-23",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "NTX-血清（1型コラーゲン架橋N-テロペプチド）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-23.pdf"
   },
@@ -446,7 +446,7 @@
     "no": "No.2025-22",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "風疹/EIAクーポン、風疹/HIクーポン、風疹/LTIクーポン、風疹/CLEIAクーポン",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-22.pdf"
   },
@@ -464,7 +464,7 @@
     "no": "No.2025-21",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "M2BPGi",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-21.pdf"
   },
@@ -473,7 +473,7 @@
     "no": "No.2025-20",
     "title": "TARC検査 採血容器に関する注意のお知らせ",
     "category": "容器変更",
-    "summary": "TARC検査の採血容器に関する注意事項。",
+    "summary": "TARC、TARC（CCL17）",
     "keywords": "TARC 採血容器 アトピー",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-20.pdf"
   },
@@ -491,7 +491,7 @@
     "no": "No.2025-19",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "低カルボキシル化オステオカルシン（ucOC）、抗ガラクトース欠損IgG抗体（CA-RF）、アポリポ蛋白A2（APOA2）アイソフォーム",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-19.pdf"
   },
@@ -500,7 +500,7 @@
     "no": "No.2025-18",
     "title": "遺伝子関連・染色体検査 検査項目名称変更のお知らせ",
     "category": "内容変更",
-    "summary": "遺伝子関連・染色体検査の検査項目名称変更。",
+    "summary": "遺伝子関連・染色体検査の一部項目",
     "keywords": "遺伝子 染色体 名称変更",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-18.pdf"
   },
@@ -509,7 +509,7 @@
     "no": "No.2025-17",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "百日咳菌IgM抗体/百日咳菌IgA抗体",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/05/info2025-17.pdf"
   },
@@ -518,7 +518,7 @@
     "no": "No.2025-16",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "HIV-1/2抗体確認検査",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-16.pdf"
   },
@@ -527,7 +527,7 @@
     "no": "No.2025-15",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "FDP定量（尿）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-15.pdf"
   },
@@ -536,7 +536,7 @@
     "no": "No.2025-14",
     "title": "長期保存不適項目のゴールデンウィーク期間の受託日程に関するお知らせ",
     "category": "業務日程",
-    "summary": "ゴールデンウィーク期間の長期保存不適項目の受託日程案内。",
+    "summary": "検体長期保存不適項目のゴールデンウィーク前後を含む期間の受託日程について",
     "keywords": "ゴールデンウィーク GW 保存不適 休日 業務日程",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-14.pdf"
   },
@@ -545,7 +545,7 @@
     "no": "No.2025-13",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "HIV-1/2抗体確認検査",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-13.pdf"
   },
@@ -554,7 +554,7 @@
     "no": "No.2025-12",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "造血器腫瘍又は類縁疾患ゲノムプロファイリング検査、がんゲノムプロファイリング評価提供料",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/03/info2025-12.pdf"
   },
@@ -563,7 +563,7 @@
     "no": "No.2025-11",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "淋菌およびクラミジア・トラコマチス同時核酸検出/リアルタイムPCR、クラミジア・トラコマチス核酸検出/リアルタイムPCR、淋菌核酸検出/リアルタイムPCR",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-11.pdf"
   },
@@ -572,7 +572,7 @@
     "no": "No.2025-10",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "ミスマッチ修復タンパク免疫染色（免疫抗体法）病理組織標本作製",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/03/info2025-10.pdf"
   },
@@ -581,7 +581,7 @@
     "no": "No.2025-09",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "TSHレセプター（受容体）抗体（第2世代）（TRAb-human）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/04/info2025-09.pdf"
   },
@@ -590,7 +590,7 @@
     "no": "No.2025-08",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "リポ蛋白（a）（Lp（a））/ラテックス凝集比濁法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/02/info2025-08.pdf"
   },
@@ -599,7 +599,7 @@
     "no": "No.2025-07",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "トランスフェリン（Tf）/免疫比濁法、トランスサイレチン（プレアルブミン）/免疫比濁法、レチノール結合蛋白（RBP）/ラテックス凝集比濁法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/02/info2025-07.pdf"
   },
@@ -608,7 +608,7 @@
     "no": "No.2025-06",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "トロンビン・アンチトロンビン複合体（TAT）、ラコサミド、副甲状腺ホルモンintact（PTH-intact）、特異的IgE",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-06.pdf"
   },
@@ -617,7 +617,7 @@
     "no": "No.2025-05",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "リポ蛋白(a)、水銀-血液・尿、キニジン、N-アセチルプロカインアミド、覚せい剤検査、FTA-ABS定性、FTA-ABS半定量、FTA-ABS IgM定性、トランスフェリン、プレアルブミン、レチノール結合蛋白、モノクローナルRF結合免疫複合体",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-05.pdf"
   },
@@ -626,7 +626,7 @@
     "no": "No.2025-04",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "p16 E6H4",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-04.pdf"
   },
@@ -635,7 +635,7 @@
     "no": "No.2025-03",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "マイコプラズマ・ジェニタリウム核酸及びマクロライド耐性変異同時検出、p16タンパク、BRCA1/2遺伝子検査",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-03.pdf"
   },
@@ -644,7 +644,7 @@
     "no": "No.2025-02",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "免疫電気泳動（抗ヒト全血清による定性）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-02.pdf"
   },
@@ -653,7 +653,7 @@
     "no": "No.2025-01",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "尿素窒素（UN）-血清、尿素窒素（UN）-尿",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2025/01/info2025-01.pdf"
   },
@@ -662,7 +662,7 @@
     "no": "No.2024-50",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "百日咳菌IgM抗体",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/12/info2024-50.pdf"
   },
@@ -671,7 +671,7 @@
     "no": "No.2024-49",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "アミロイドβ42/40比（髄液）、抗GM-CSF抗体、FGFR2融合遺伝子標本作製、TARC",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/12/info2024-49.pdf"
   },
@@ -680,7 +680,7 @@
     "no": "No.2024-48",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "サイトメガロウイルス核酸定量",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-48.pdf"
   },
@@ -689,7 +689,7 @@
     "no": "No.2024-47",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "免疫固定法（モノクローナル抗体を用いた場合） 〈目的：ダラツムマブの治療効果判定〉",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-47.pdf"
   },
@@ -698,7 +698,7 @@
     "no": "No.2024-46",
     "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
     "category": "業務日程",
-    "summary": "年末年始の業務日程および保存不適検体の年内最終受付日の案内。",
+    "summary": "年末年始の業務日程、保存不適検体の年内最終受付日 および年内報告可能最終受付日・年内最終受付日のお知らせ",
     "keywords": "年末年始 業務日程 保存不適検体 受付日 休日",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-46.pdf"
   },
@@ -707,7 +707,7 @@
     "no": "No.2024-45",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "ビタミンB1、アデノウイルス8型/NT法",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-45.pdf"
   },
@@ -716,7 +716,7 @@
     "no": "No.2024-44",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "ROS1融合遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-44.pdf"
   },
@@ -725,7 +725,7 @@
     "no": "No.2024-43",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "百日咳菌IgM抗体",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-43.pdf"
   },
@@ -734,7 +734,7 @@
     "no": "—",
     "title": "岡山県内及び周辺地域における薬剤耐性菌の分子疫学調査参加のお知らせ",
     "category": "その他",
-    "summary": "（株）岡山医学検査センターは岡山大学病院 感染症内科と共同で「岡山県内および周辺地域に\r\nおける薬剤耐性菌の分子疫学調査」を行います。\r\n当社は共同研究機関として参加いたします。",
+    "summary": "（株）岡山医学検査センターは岡山大学病院 感染症内科と共同で「岡山県内および周辺地域に おける薬剤耐性菌の分子疫学調査」を行います。 当社は共同研究機関として参加いたします。",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/「岡山県内及び周辺地域における薬剤耐性菌の分子疫学調査」共同研究参加のお知らせ.pdf"
   },
@@ -743,7 +743,7 @@
     "no": "No.2024-42",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "マイコプラズマ抗体/PA",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-42.pdf"
   },
@@ -752,7 +752,7 @@
     "no": "No.2024-41",
     "title": "容器変更のお知らせ",
     "category": "容器変更",
-    "summary": "採血容器等の仕様変更。",
+    "summary": "嫌気ポーター（容器Ｎｏ.60）",
     "keywords": "採血容器",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/11/info2024-41.pdf"
   },
@@ -770,7 +770,7 @@
     "no": "No.2024-40",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "インフルエンザウイルス抗体/HI法",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-40.pdf"
   },
@@ -779,7 +779,7 @@
     "no": "No.2024-39",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "HCV抗体・HCVコア蛋白同時検出定性、抗ミュラー管ホルモン（AMH）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-39.pdf"
   },
@@ -788,7 +788,7 @@
     "no": "No.2024-38",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "マイコプラズマ抗体/PA",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-38.pdf"
   },
@@ -797,7 +797,7 @@
     "no": "No.2024-37",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "抗GAD抗体・抗IA-2抗体セット",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-37.pdf"
   },
@@ -806,7 +806,7 @@
     "no": "No.2024-36",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "ソマトメジン-C（IGF-1）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/10/info2024-36.pdf"
   },
@@ -824,7 +824,7 @@
     "no": "No.2024-35",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "アンチトロンビンⅢ活性（AT-Ⅲ）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-35.pdf"
   },
@@ -833,7 +833,7 @@
     "no": "No.2024-34",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "25-ヒドロキシビタミンD（25OHビタミンD）/CLIA法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-34.pdf"
   },
@@ -842,7 +842,7 @@
     "no": "No.2024-33",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "プロプラノロール、アデノウイルス21型/NT法、アデノウイルス37型/NT法、クラミドフィラ・シッタシIgG抗体、クラミドフィラ・シッタシIgM抗体、抗ss-DNA IgM抗体、、抗ds-DNA IgM抗体",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-33.pdf"
   },
@@ -851,7 +851,7 @@
     "no": "No.2024-32",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "脂肪染色（ズダンⅢ染色）、PFDテスト、金（Au）、インターロイキン-8（IL-8） 他",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/09/info2024-32.pdf"
   },
@@ -860,7 +860,7 @@
     "no": "—",
     "title": "2024.08.26版_苦情処理プロセス",
     "category": "その他",
-    "summary": "当社の臨床検査および病理検査事業への苦情に対する「苦情処理プロセス」をご案内申し上げます。\r\n当社は、苦情を受けた場合、その内容について迅速に調査し、合理的な期間内に誠意をもって対応いたします。",
+    "summary": "当社の臨床検査および病理検査事業への苦情に対する「苦情処理プロセス」をご案内申し上げます。 当社は、苦情を受けた場合、その内容について迅速に調査し、合理的な期間内に誠意をもって対応いたします。",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/2024.08.26版_苦情処理プロセス.pdf"
   },
@@ -869,7 +869,7 @@
     "no": "No.2024-31",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "HPV簡易遺伝子型/リアルタイムPCR（HPV核酸検出（簡易ジェノタイプ判定））",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-31.pdf"
   },
@@ -878,7 +878,7 @@
     "no": "No.2024-30",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "HBV-DNA定量/リアルタイムPCR（HBV核酸定量）、HCV-RNA定量/リアルタイムPCR（HCV核酸定量）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-30.pdf"
   },
@@ -887,7 +887,7 @@
     "no": "No.2024-29",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "シアリルTn抗原（STN）",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-29.pdf"
   },
@@ -896,7 +896,7 @@
     "no": "No.2024-28",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "アスペルギルスIgG抗体、（1→3）-β-D-グルカン",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-28.pdf"
   },
@@ -905,7 +905,7 @@
     "no": "No.2024-27",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "アスペルギルス-IgG抗体",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/08/info2024-27.pdf"
   },
@@ -914,7 +914,7 @@
     "no": "No.2024-26",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "CKアイソザイム（CPKアイソザイム）",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/07/info2024-26.pdf"
   },
@@ -923,7 +923,7 @@
     "no": "No.2024-25",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "抗カルジオリピンIgG抗体、抗カルジオリピンIgM抗体、抗β2グリコプロテインⅠIgG抗体、抗β2グリコプロテインⅠIgM抗体",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/07/info2024-25.pdf"
   },
@@ -932,7 +932,7 @@
     "no": "No.2024-24",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "オンコマインマルチCDx 6遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-24.pdf"
   },
@@ -941,7 +941,7 @@
     "no": "No.2024-23",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "オンコマインマルチCDx 7遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-23.pdf"
   },
@@ -950,7 +950,7 @@
     "no": "No.2024-22",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "百日咳菌核酸検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-22.pdf"
   },
@@ -959,7 +959,7 @@
     "no": "No.2024-21",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "CLDN18",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-21.pdf"
   },
@@ -968,7 +968,7 @@
     "no": "No.2024-20",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "STDマルチ定性/PCR（研究検査）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/06/info2024-20.pdf"
   },
@@ -986,7 +986,7 @@
     "no": "No.2024-19",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "固形癌におけるRET融合遺伝子検査、甲状腺癌におけるBRAF遺伝子検査、乳癌におけるAKT1遺伝子変異検査、乳癌におけるPIK3CA遺伝子変異検査、乳癌におけるPTEN遺伝子変異検査、がんゲノムプロファイリング検査、CLDN18タンパク免疫染色（免疫抗体法）病理組織標本作製",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-19.pdf"
   },
@@ -995,7 +995,7 @@
     "no": "No.2024-18",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "甲状腺癌オンコマインマルチCDx",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-18.pdf"
   },
@@ -1004,7 +1004,7 @@
     "no": "No.2024-17",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "甲状腺癌オンコマインマルチCDx 2遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/05/info2024-17.pdf"
   },
@@ -1013,7 +1013,7 @@
     "no": "No.2024-16",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "白血球数、赤血球数、ヘモグロビン、ヘマトクリット、血小板数、末梢血液像：機械法、尿一般、骨塩定量検査、T-SPOT.TB",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/04/info2024-16.pdf"
   },
@@ -1022,7 +1022,7 @@
     "no": "No.2024-15",
     "title": "ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査について",
     "category": "業務日程",
-    "summary": "ゴールデンウィーク期間の受託日程および休日緊急検査の案内。",
+    "summary": "ゴールデンウィーク前後を含む期間の検体長期保存不適項目の受託日程および休日の緊急検査対象項目について",
     "keywords": "ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/04/info2024-15.pdf"
   },
@@ -1031,7 +1031,7 @@
     "no": "No.2024-14",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "クレアチニン-血清、クレアチニン-尿",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-14.pdf"
   },
@@ -1040,7 +1040,7 @@
     "no": "No.2024-13",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "アポリポ蛋白Ａ2（ＡＰＯＡ2）アイソフォーム",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-13.pdf"
   },
@@ -1058,7 +1058,7 @@
     "no": "No.2024-12",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "抗酸菌同定・薬剤感受性セット",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-12.pdf"
   },
@@ -1067,7 +1067,7 @@
     "no": "No.2024-11",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "遊離βHCG（HCGβサブユニット）",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-11.pdf"
   },
@@ -1076,7 +1076,7 @@
     "no": "No.2024-10",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "CKアイソザイム（CPKアイソザイム）",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-10.pdf"
   },
@@ -1085,7 +1085,7 @@
     "no": "No.2024-09",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "サイトケラチン18フラグメント（CK-18F）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-09.pdf"
   },
@@ -1094,7 +1094,7 @@
     "no": "No.2024-08",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "肺がんコンパクトパネルCDx 7遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-08.pdf"
   },
@@ -1103,7 +1103,7 @@
     "no": "No.2024-07",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "肺がんコンパクトパネル",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/03/info2024-07.pdf"
   },
@@ -1112,7 +1112,7 @@
     "no": "No.2024-06",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "前立腺特異抗原(PSA)レクチン結合分画比（S2,3PSA％）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-06.pdf"
   },
@@ -1121,7 +1121,7 @@
     "no": "No.2024-05",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "ELFスコア、S2,3PSA％、アポリポ蛋白A2（APOA2）アイソフォーム、 悪性腫瘍遺伝子検査（血液・血漿）[販売名：Guardant CDxがん遺伝子パネル]、 がんゲノムプロファイリング検査[販売名：Guardant CDxがん遺伝子パネル]",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-05.pdf"
   },
@@ -1130,7 +1130,7 @@
     "no": "No.2024-04",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "梅毒 RPR法 定量、梅毒 TP抗体 定量",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/02/info2024-04.pdf"
   },
@@ -1139,7 +1139,7 @@
     "no": "No.2024-03",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "トリプシン/EIA法、ミオグロビン/CLIA法〈血清〉、組織ポリペプチド抗原（TPA）、尿中核マトリックスプロテイン22（尿中NMP22）、インターロイキン-6（IL-6）、非結核性遅発育抗酸菌（NTM）/MIC測定",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-03.pdf"
   },
@@ -1148,7 +1148,7 @@
     "no": "No.2024-02",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "ビタミンB2（リボフラビン）、ラモトリギン、クロザピン、高感度CRP",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-02.pdf"
   },
@@ -1157,7 +1157,7 @@
     "no": "No.2024-01",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "プロスタグランジンE主要代謝物（尿）、サイトケラチン18フラグメント（CK-18F）、カルプロテクチン（糞便）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2024/01/info2024-01.pdf"
   },
@@ -1166,7 +1166,7 @@
     "no": "No.2023-56",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "アミロイドβ42/40比（髄液）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-56.pdf"
   },
@@ -1175,7 +1175,7 @@
     "no": "No.2023-55",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "デオキシチミジンキナーゼ(TK)活性、エコーウイルス3型・7型・11型・12型/HI法、水痘・帯状ヘルペスウイルス(VZV)/IAHA法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-55.pdf"
   },
@@ -1184,7 +1184,7 @@
     "no": "No.2023-54",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "トリプシン/ラテックス凝集比濁法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-54.pdf"
   },
@@ -1193,7 +1193,7 @@
     "no": "No.2023-53",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "ミオグロビン定量/CLEIA法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-53.pdf"
   },
@@ -1202,7 +1202,7 @@
     "no": "No.2023-52",
     "title": "測定機器および試薬変更のお知らせ",
     "category": "内容変更",
-    "summary": "測定機器および試薬の変更。",
+    "summary": "結核菌群核酸同定/リアルタイムPCR、マイコバクテリウムアビウム・イントラセルラー核酸同定/リアルタイムPCR",
     "keywords": "測定機器 試薬変更",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-52.pdf"
   },
@@ -1211,7 +1211,7 @@
     "no": "No.2023-51",
     "title": "報告名称変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査報告の名称変更。",
+    "summary": "末梢血液像（鏡検法）の細胞の報告名称変更",
     "keywords": "報告名称変更",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/12/info2023-51.pdf"
   },
@@ -1220,7 +1220,7 @@
     "no": "No.2023-50",
     "title": "年末年始の休日緊急検査のお知らせ",
     "category": "業務日程",
-    "summary": "年末年始の休日緊急検査案内。",
+    "summary": "年末年始の休日期間中の緊急検査受託時間、実施項目のお知らせ",
     "keywords": "年末年始 休日 緊急検査 業務日程",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-50.pdf"
   },
@@ -1229,7 +1229,7 @@
     "no": "No.2023-49",
     "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
     "category": "業務日程",
-    "summary": "年末年始の業務日程および保存不適検体の年内最終受付日の案内。",
+    "summary": "年末年始の業務日程、保存不適検体の年内最終受付日および年内報告可能最終受付日・年内最終受付日のお知らせ",
     "keywords": "年末年始 業務日程 保存不適検体 受付日 休日",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-49.pdf"
   },
@@ -1238,7 +1238,7 @@
     "no": "No.2023-48",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "非結核性遅発育抗酸菌（SGM）/MIC測定",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-48.pdf"
   },
@@ -1247,7 +1247,7 @@
     "no": "No.2023-47",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "固形腫瘍（肺癌及び大腸癌を除く。）におけるBRAF遺伝子検査（PCR-rSSO法）、悪性リンパ腫におけるBRAF遺伝子検査（PCR-rSSO法）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/11/info2023-47.pdf"
   },
@@ -1256,7 +1256,7 @@
     "no": "No.2023-46",
     "title": "抗酸菌同定（質量分析法）の検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "抗酸菌同定（質量分析法）の検査内容変更。",
+    "summary": "抗酸菌同定（質量分析法）",
     "keywords": "抗酸菌 質量分析法 同定",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/10/info2023-46.pdf"
   },
@@ -1265,7 +1265,7 @@
     "no": "No.2023-45",
     "title": "凝固線溶系検査の規定量不足に対するコメント付記のお知らせ",
     "category": "内容変更",
-    "summary": "凝固線溶系検査の規定量不足へのコメント付記対応。",
+    "summary": "プロトロンビン時間、活性化部分トロンボプラスチン時間、フィブリノーゲン、アンチトロンビンⅢ活性、FDP、D-Dダイマーのコメントに関するお知らせ",
     "keywords": "凝固線溶系 規定量不足 コメント",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/10/info2023-45.pdf"
   },
@@ -1274,7 +1274,7 @@
     "no": "No.2023-44",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "HTLV-Ⅰ抗体（ATLA抗体）/PA",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-44.pdf"
   },
@@ -1283,7 +1283,7 @@
     "no": "No.2023-43",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "インフルエンザウイルス抗体（HI法）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-43.pdf"
   },
@@ -1292,7 +1292,7 @@
     "no": "No.2023-42",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "乳癌悪性度判定検査",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/09/info2023-42.pdf"
   },
@@ -1301,7 +1301,7 @@
     "no": "No.2023-41",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "IgG インデックス",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-41.pdf"
   },
@@ -1310,7 +1310,7 @@
     "no": "No.2023-40",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "オリゴクローナルバンド/等電点電気泳動法",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-40.pdf"
   },
@@ -1319,7 +1319,7 @@
     "no": "No.2023-39",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "オンコマインマルチCDx 5遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-39.pdf"
   },
@@ -1328,7 +1328,7 @@
     "no": "No.2023-38",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "オンコマインマルチCDx 6遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-38.pdf"
   },
@@ -1337,7 +1337,7 @@
     "no": "No.2023-37",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "HER2遺伝子検査（次世代シーケンシング）、A群β溶血連鎖球菌核酸検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-37.pdf"
   },
@@ -1346,7 +1346,7 @@
     "no": "No.2023-36",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "HBVコア関連抗原（HBcrAg）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-36.pdf"
   },
@@ -1355,7 +1355,7 @@
     "no": "No.2023-35",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "ゾニサミド",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/08/info2023-35.pdf"
   },
@@ -1364,7 +1364,7 @@
     "no": "No.2023-34",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "血漿アミロイドβ1-42/1-40比",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-34.pdf"
   },
@@ -1373,7 +1373,7 @@
     "no": "No.2023-33",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "高感度HBc関連抗原定量（高感度HBVコア関連抗原：HBcrAg）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-33.pdf"
   },
@@ -1382,7 +1382,7 @@
     "no": "No.2023-32",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "ミエリン塩基性蛋白/EIA（MBP）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-32.pdf"
   },
@@ -1391,7 +1391,7 @@
     "no": "No.2023-31",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "ミエリンベーシック蛋白（MBP）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/07/info2023-31.pdf"
   },
@@ -1400,7 +1400,7 @@
     "no": "No.2023-30",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "結核菌群リファンピシン（RFP）耐性遺伝子及びイソニアジド（INH）耐性遺伝子同時検出",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-30.pdf"
   },
@@ -1409,7 +1409,7 @@
     "no": "No.2023-29",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "遊離βHCG（HCGβサブユニット）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-29.pdf"
   },
@@ -1418,7 +1418,7 @@
     "no": "No.2023-28",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "遊離βHCG（HCGβサブユニット）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-28.pdf"
   },
@@ -1427,7 +1427,7 @@
     "no": "No.2023-27",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "FLT3遺伝子検査、カルプロテクチン（糞便）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-27.pdf"
   },
@@ -1436,7 +1436,7 @@
     "no": "No.2023-26",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "HCG定性（妊娠反応）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/06/info2023-26.pdf"
   },
@@ -1445,7 +1445,7 @@
     "no": "No.2023-25",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "NTX-血清（Ⅰ型コラーゲン架橋N-テロペプチド）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-25.pdf"
   },
@@ -1454,7 +1454,7 @@
     "no": "No.2023-24",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "肺癌関連遺伝子多項目同時検査（7項目）、血小板第4因子-ヘパリン複合体抗体定性、肺サーファクタント蛋白-D（SP-D）、SARS-CoV-2 抗原検出（定量）、HER2タンパク",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-24.pdf"
   },
@@ -1463,7 +1463,7 @@
     "no": "No.2023-23",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "肺癌マルチ遺伝子PCRパネル",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-23.pdf"
   },
@@ -1472,7 +1472,7 @@
     "no": "No.2023-22",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "肺癌マルチ遺伝子PCRパネル7遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-22.pdf"
   },
@@ -1481,7 +1481,7 @@
     "no": "No.2023-21",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "成長ホルモン（GH）、マイコプラズマ抗体IgM",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/05/info2023-21.pdf"
   },
@@ -1490,7 +1490,7 @@
     "no": "No.2023-20",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "ガストリン（研究検査）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-20.pdf"
   },
@@ -1499,7 +1499,7 @@
     "no": "No.2023-19",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "ガストリン",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-19.pdf"
   },
@@ -1508,7 +1508,7 @@
     "no": "No.2023-18",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "糞便中カンピロバクター抗原(定性)",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-18.pdf"
   },
@@ -1517,7 +1517,7 @@
     "no": "No.2023-17",
     "title": "「甲状腺機能 検査チャート」改訂のお知らせ",
     "category": "内容変更",
-    "summary": "甲状腺機能検査チャートの改訂。",
+    "summary": "「甲状腺機能 検査チャート」改訂のお知らせ",
     "keywords": "甲状腺 甲状腺機能 検査チャート",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-17.pdf"
   },
@@ -1526,7 +1526,7 @@
     "no": "No.2023-16",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "大腸菌O157LPS抗体",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-16.pdf"
   },
@@ -1535,7 +1535,7 @@
     "no": "No.2023-15",
     "title": "ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査について",
     "category": "業務日程",
-    "summary": "ゴールデンウィーク期間の受託日程および休日緊急検査の案内。",
+    "summary": "ゴールデンウィーク前後を含む期間の検体長期保存不適項目の受託日程および休日の緊急検査対象項目について",
     "keywords": "ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/04/info2023-15.pdf"
   },
@@ -1544,7 +1544,7 @@
     "no": "No.2023-14",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "肺がんコンパクトパネル",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-14.pdf"
   },
@@ -1553,7 +1553,7 @@
     "no": "No.2023-13",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "【結核菌および非結核性抗酸菌の薬剤感受性検査】 PZA（ピラジナミド）、非結核性遅発育抗酸菌/MIC測定、迅速発育抗酸菌/MIC測定",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-13.pdf"
   },
@@ -1562,7 +1562,7 @@
     "no": "No.2023-12",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "一般細菌薬剤感受性試験 タゾバクタム/セフトロザン",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-12.pdf"
   },
@@ -1571,7 +1571,7 @@
     "no": "No.2023-11",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "グリコアルブミン、遊離サイロキシン（FT4）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-11.pdf"
   },
@@ -1580,7 +1580,7 @@
     "no": "No.2023-10",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "オートタキシン、単純ヘルペスウイルス抗原定性（皮膚）、結核菌群リファンピシン耐性遺伝子及びイソニアジド耐性遺伝子同時検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/03/info2023-10.pdf"
   },
@@ -1589,7 +1589,7 @@
     "no": "No.2023-09",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "尿中核マトリックスプロテイン22（尿中NMP22）",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-09.pdf"
   },
@@ -1598,7 +1598,7 @@
     "no": "No.2023-08",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "プレグナンジオール（P2）、プレグナントリオール（P3）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-08.pdf"
   },
@@ -1607,7 +1607,7 @@
     "no": "No.2023-07",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "17-ケトステロイド分画、ASTアイソザイム、TSH刺激性レセプター抗体、サイロイドテスト、マイクロゾームテスト、PAC（RIA相当値）/PRA、PAC（RIA相当値）/ARC、インスリン抗体、麻疹ウイルス抗体/PA、アスペルギルス抗体、抗ストレプトキナーゼ（ASK）、抗ミトコンドリアM2抗体、結核菌群同定/HPA法、ﾏｲｺﾊﾞｸﾃﾘｳﾑｱﾋﾞｳﾑ・ｲﾝﾄﾗｾﾙﾗｰ核酸同定/HPA法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-07.pdf"
   },
@@ -1616,7 +1616,7 @@
     "no": "No.2023-06",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "PAC（CLEIA）/PRA、PAC（CLEIA）/ARC、アプリンジン、フレカイニド、ピルメノール、ベプリジル、トロンボモジュリン、ムンプスウイルスIgG/EIA、抗Sm抗体",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-06.pdf"
   },
@@ -1625,7 +1625,7 @@
     "no": "No.2023-05",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "デオキシチミジンキナーゼ（TK）活性",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-05.pdf"
   },
@@ -1634,7 +1634,7 @@
     "no": "No.2023-04",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "インスリン抗体",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-04.pdf"
   },
@@ -1643,7 +1643,7 @@
     "no": "No.2023-03",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "抗ミトコンドリアM2抗体定量（AMA-M2定量）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/02/info2023-03.pdf"
   },
@@ -1652,7 +1652,7 @@
     "no": "No.2023-02",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "クロザピン",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/01/info2023-02.pdf"
   },
@@ -1661,7 +1661,7 @@
     "no": "No.2023-01",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "BRAF V600E 変異タンパク免疫染色（免疫抗体法）病理組織標本作製",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2023/01/info2023-01.pdf"
   },
@@ -1670,7 +1670,7 @@
     "no": "No.2022-54",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "甲状腺癌オンコマインマルチ CDx",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-54.pdf"
   },
@@ -1679,7 +1679,7 @@
     "no": "No.2022-53",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "肺癌マルチ遺伝子PCRパネル",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-53.pdf"
   },
@@ -1688,7 +1688,7 @@
     "no": "No.2022-52",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "オンコマインマルチ CDx 5遺伝子",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-52.pdf"
   },
@@ -1697,7 +1697,7 @@
     "no": "No.2022-51",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "尿中核マトリックスプロテイン22（尿中NMP22）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-51.pdf"
   },
@@ -1706,7 +1706,7 @@
     "no": "No.2022-50",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "デオキシチミジンキナーゼ（TK）活性",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-50.pdf"
   },
@@ -1715,7 +1715,7 @@
     "no": "No.2022-49",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "遊離βHCG（HCGβサブユニット）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-49.pdf"
   },
@@ -1724,7 +1724,7 @@
     "no": "No.2022-48",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "クエン酸〈血清〉、クエン酸〈尿〉",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-48.pdf"
   },
@@ -1733,7 +1733,7 @@
     "no": "No.2022-47",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "尿沈渣",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-47.pdf"
   },
@@ -1742,7 +1742,7 @@
     "no": "No.2022-46",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "ADAMTS13活性",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-46.pdf"
   },
@@ -1751,7 +1751,7 @@
     "no": "No.2022-45",
     "title": "測定機器および試薬変更のお知らせ",
     "category": "内容変更",
-    "summary": "測定機器および試薬の変更。",
+    "summary": "肺サーファクタントプロテインD（SP-D）",
     "keywords": "測定機器 試薬変更",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-45.pdf"
   },
@@ -1760,7 +1760,7 @@
     "no": "No.2022-44",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "抗TIF1-γ抗体",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-44.pdf"
   },
@@ -1769,7 +1769,7 @@
     "no": "No.2022-43",
     "title": "年末年始の休日緊急検査のお知らせ",
     "category": "業務日程",
-    "summary": "年末年始の休日緊急検査案内。",
+    "summary": "年末年始の休日期間中の緊急検査受託時間、実施項目のお知らせ",
     "keywords": "年末年始 休日 緊急検査",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-43.pdf"
   },
@@ -1778,7 +1778,7 @@
     "no": "No.2022-42",
     "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
     "category": "業務日程",
-    "summary": "年末年始の業務日程案内。",
+    "summary": "年末年始の業務日程、保存不適検体の年内最終受付日および年内報告可能最終受付日・年内最終受付日のお知らせ",
     "keywords": "年末年始 業務日程 保存不適検体 受付日",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-42-1.pdf"
   },
@@ -1787,7 +1787,7 @@
     "no": "No.2022-41",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "HPVジェノタイプ検査",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/12/info2022-41.pdf"
   },
@@ -1796,7 +1796,7 @@
     "no": "No.2022-40",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "ARS-CoV-2・インフルエンザウイルス・RSウイルス抗原同時検出（定性）、SARS-CoV-2・インフルエンザ・RSウイルス核酸同時検出、悪性黒色腫におけるBRAF遺伝子検査（PCR-rSSO法）、ヘリコバクター・ピロリ核酸及びクラリスロマイシン耐性遺伝子検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-40.pdf"
   },
@@ -1805,7 +1805,7 @@
     "no": "No.2022-39",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "抗TIF1-γ抗体",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-39.pdf"
   },
@@ -1814,7 +1814,7 @@
     "no": "No.2022-38",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "インフルエンザA・Bウイルス抗原セット",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-38.pdf"
   },
@@ -1823,7 +1823,7 @@
     "no": "No.2022-37",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "ウイルス・細菌核酸多項目同時検出（髄液）、ミスマッチ修復タンパク免疫染色（免疫抗体法）病理組織標本作製、悪性腫瘍組織検査（大腸癌におけるBRAF遺伝子検査）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-37.pdf"
   },
@@ -1832,7 +1832,7 @@
     "no": "No.2022-36",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "Major BCR-ABL 高感度％-ALL",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/11/info2022-36.pdf"
   },
@@ -1841,7 +1841,7 @@
     "no": "No.2022-35",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "ガストリン（研究検査）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/10/info2022-35.pdf"
   },
@@ -1850,7 +1850,7 @@
     "no": "No.2022-34",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "sd LDL-C（臨床向け）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/10/info2022-34.pdf"
   },
@@ -1859,7 +1859,7 @@
     "no": "No.2022-33",
     "title": "アレルゲン検査チャート改訂のお知らせ",
     "category": "内容変更",
-    "summary": "アレルゲン検査チャートの改訂。",
+    "summary": "アレルゲン検査チャートの改訂",
     "keywords": "アレルゲン アレルギー 検査チャート",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-33.pdf"
   },
@@ -1868,7 +1868,7 @@
     "no": "No.2022-32",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "インフルエンザウイルス抗体（HI法）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-32.pdf"
   },
@@ -1877,7 +1877,7 @@
     "no": "No.2022-31",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "SARS-CoV-2抗原検出(定量)、BRCA1/2遺伝子検査(血液を検体とするもの)、Major BCR-ABL1(mRNA定量)、SARS-CoV-2・RSウイルス抗原同時検出(定性) 他",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-31.pdf"
   },
@@ -1886,7 +1886,7 @@
     "no": "No.2022-30",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "sd LDL-C",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-30.pdf"
   },
@@ -1895,7 +1895,7 @@
     "no": "No.2022-29",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "甲状腺刺激抗体（TSAb）/バイオアッセイ法",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-29.pdf"
   },
@@ -1904,7 +1904,7 @@
     "no": "No.2022-28",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "25-ヒドロキシビタミンD/ECLIA、亜鉛、CA72-4、アミノ酸分析：9種、サイトメガロウイルス抗原C7-HRP、蛋白分画（尿）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/09/info2022-28.pdf"
   },
@@ -1913,7 +1913,7 @@
     "no": "No.2022-27",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "コクリントモプロテイン（CTP）検出、SARS-CoV-2・RSウイルス核酸同時検出、SARS-CoV-2核酸検出、SARS-CoV-2・インフルエンザ核酸同時検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-27.pdf"
   },
@@ -1922,7 +1922,7 @@
     "no": "No.2022-26",
     "title": "報告遅延解消のお知らせ",
     "category": "その他",
-    "summary": "検査結果報告遅延の解消。",
+    "summary": "1,25-(OH)2ビタミンD",
     "keywords": "報告遅延 解消",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-26.pdf"
   },
@@ -1931,7 +1931,7 @@
     "no": "No.2022-25",
     "title": "検査結果報告遅延のお知らせ",
     "category": "その他",
-    "summary": "検査結果報告遅延のお知らせ。",
+    "summary": "1,25-(OH)2ビタミンD",
     "keywords": "報告遅延",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-25.pdf"
   },
@@ -1940,7 +1940,7 @@
     "no": "No.2022-24",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "腟トリコモナス及びマイコプラズマ・ジェニタリウム/リアルタイムPCR",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-24.pdf"
   },
@@ -1949,7 +1949,7 @@
     "no": "No.2022-23",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "KRAS遺伝子変異（G12C）検査、黄色ブドウ球菌ペニシリン結合蛋白2’(PBP2’)検出、腟トリコモナス核酸及びマイコプラズマ・ジェニタリウム同時核酸検出、百日咳菌・パラ百日咳菌核酸同時検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/07/info2022-23.pdf"
   },
@@ -1958,7 +1958,7 @@
     "no": "No.2022-22",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "HCG-βサブユニット（遊離HCG-β）/IRMA〈血清・尿〉",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-22.pdf"
   },
@@ -1967,7 +1967,7 @@
     "no": "No.2022-21",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "遊離βHCG（HCGβサブユニット）/CLIA",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-21.pdf"
   },
@@ -1976,7 +1976,7 @@
     "no": "No.2022-20",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "免疫複合体（C1q）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-20.pdf"
   },
@@ -1985,7 +1985,7 @@
     "no": "No.2022-19",
     "title": "基準範囲表記変更のお知らせ",
     "category": "内容変更",
-    "summary": "基準範囲の表記変更。",
+    "summary": "免疫電気泳動（IFE）、尿免疫電気泳動（IFE）、HCVモニターゲノタイプ、HIV-1 RNA定量、HPV簡易遺伝子型/リアルタイムPCR",
     "keywords": "基準範囲 表記変更",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-19.pdf"
   },
@@ -1994,7 +1994,7 @@
     "no": "No.2022-18",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "RET融合遺伝子検査、RET遺伝子変異検査、カルプロテクチン（糞便）、抗好中球細胞質ﾐｴﾛﾍﾟﾙｵｷｼﾀﾞｰｾﾞ抗体（MPO-ANCA）、 インターロイキン-6（IL-6）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-18.pdf"
   },
@@ -2003,7 +2003,7 @@
     "no": "No.2022-17",
     "title": "令和4年度診療報酬改定に関するお知らせ",
     "category": "実施料",
-    "summary": "令和4年度診療報酬改定に関するお知らせ。",
+    "summary": "令和4年4月1日より点数が削除された項目、令和6年3月31日までの経過措置項目、検体検査に関する主な改定内容 等",
     "keywords": "診療報酬改定 令和4年度",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-17.pdf"
   },
@@ -2012,7 +2012,7 @@
     "no": "No.2022-16",
     "title": "報告遅延解消のお知らせ",
     "category": "その他",
-    "summary": "検査結果報告遅延の解消。",
+    "summary": "1,25-(OH)2ビタミンD",
     "keywords": "報告遅延 解消",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-16.pdf"
   },
@@ -2021,7 +2021,7 @@
     "no": "No.2022-15",
     "title": "ゴールデンウィーク期間の長期保存不適項目の受託日程および休日緊急検査についてのお知らせ",
     "category": "業務日程",
-    "summary": "ゴールデンウィーク期間の受託日程および休日緊急検査の案内。",
+    "summary": "ゴールデンウィーク期間の検体の長期保存不適項目の受託日程および休日の緊急検査対象項目について",
     "keywords": "ゴールデンウィーク GW 保存不適 休日 業務日程 緊急検査",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-15.pdf"
   },
@@ -2030,7 +2030,7 @@
     "no": "No.2022-14",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "アルドステロン(CLEIA)/レニン活性比（PAC/PRA比）、アルドステロン(CLEIA)/活性型レニン定量比（PAC/ARC比）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-14.pdf"
   },
@@ -2039,7 +2039,7 @@
     "no": "No.2022-13",
     "title": "検査結果報告遅延のお知らせ",
     "category": "その他",
-    "summary": "検査結果報告遅延のお知らせ。",
+    "summary": "1,25-(OH)2ビタミンD",
     "keywords": "報告遅延",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-13.pdf"
   },
@@ -2048,7 +2048,7 @@
     "no": "No.2022-12",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "SARS-CoV-2核酸検出、SARS-CoV-2・インフルエンザ核酸同時検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-12.pdf"
   },
@@ -2057,7 +2057,7 @@
     "no": "No.2022-11",
     "title": "検査一時受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "ミエリンベーシック蛋白（MBP）",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-11.pdf"
   },
@@ -2066,7 +2066,7 @@
     "no": "No.2022-10",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "遊離トリヨードサイロニン（FT3）、ヒト絨毛性ゴナドトロピン（HCG）、NT-proBNP",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-10.pdf"
   },
@@ -2075,7 +2075,7 @@
     "no": "No.2022-09",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "ミオグロビン〈尿〉、メキシレチン、IgG型リウマチ因子、アミロイドA蛋白(SAA)、抗ss-DNA IgG抗体、抗ds-DNA IgG抗体、抗Sm抗体(FEIA)、抗SS-A抗体(FEIA)、抗SS-B抗体(FEIA)、抗Jo-1抗体(FEIA)、抗セントロメア抗体、抗GBM抗体、抗好中球細胞質ﾌﾟﾛﾃｲﾅｰｾﾞ3抗体、抗好中球細胞質ﾐｴﾛﾍﾟﾙｵｷｼﾀﾞｰｾﾞ抗体",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-09.pdf"
   },
@@ -2084,7 +2084,7 @@
     "no": "No.2022-08",
     "title": "検査受託中止のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "トロンボテスト、Ⅳ型ｺﾗｰｹﾞﾝ・7S、グリココール酸(CG)、NTx（尿）、コルチゾール（尿）、ガストリン、麻疹ウイルス抗体（HI）、HIV抗体-1型（確認試験）、HIV抗体-2型（確認試験）、抗RNP抗体・抗Sm抗体・抗SS-A抗体・抗SS-B抗体・抗Scl-70抗体・抗Jo-1抗体（免疫拡散法） 等",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-08.pdf"
   },
@@ -2093,7 +2093,7 @@
     "no": "No.2022-07",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "白癬菌抗原定性、腫瘍遺伝子変異量検査",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-07.pdf"
   },
@@ -2102,7 +2102,7 @@
     "no": "No.2022-06",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "血中遊離メタネフリン分画",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-06.pdf"
   },
@@ -2111,7 +2111,7 @@
     "no": "No.2022-05",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "BRAF遺伝子検査（次世代ｼｰｹﾝｼﾝｸﾞを除く。）、METex14遺伝子検査（次世代ｼｰｹﾝｼﾝｸﾞを除く。）、悪性腫瘍遺伝子検査（次世代ｼｰｹﾝｼﾝｸﾞを除く。）、肺炎クラミジア核酸検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-05.pdf"
   },
@@ -2120,7 +2120,7 @@
     "no": "No.2022-04",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "HIV-1/2抗体確認検査（イムノクロマト法）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-04.pdf"
   },
@@ -2129,7 +2129,7 @@
     "no": "No.2022-03",
     "title": "HbA1c（ヘモグロビンA1c）報告書への溶血コメント追記のお知らせ",
     "category": "内容変更",
-    "summary": "HbA1c報告書への溶血コメント追記対応。",
+    "summary": "HbA1c：NGSP（ヘモグロビンA1c）",
     "keywords": "HbA1c ヘモグロビンA1c 溶血 コメント 糖尿病",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-03.pdf"
   },
@@ -2138,7 +2138,7 @@
     "no": "No.2022-02",
     "title": "受託中止項目のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "コルチゾール（尿）（遊離）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-02.pdf"
   },
@@ -2147,7 +2147,7 @@
     "no": "No.2022-01",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "コルチゾール-尿",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2022-01.pdf"
   },
@@ -2156,7 +2156,7 @@
     "no": "No.2021-59",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "SARS-CoV-2抗原検出(定性・定量)、SARS-CoV-2・インフルエンザウイルス抗原同時検出(定性)、SARS-CoV-2核酸検出、SARS-CoV-2及びインフルエンザ核酸同時検出",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-59.pdf"
   },
@@ -2165,7 +2165,7 @@
     "no": "No.2021-58",
     "title": "検査項目名変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査項目名称の変更。",
+    "summary": "新型コロナウイルス抗体検査の項目名称変更",
     "keywords": "項目名変更 名称変更",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-58.pdf"
   },
@@ -2174,7 +2174,7 @@
     "no": "No.2021-57",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "カルプロテクチン（糞便）、RET融合遺伝子検査",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-57.pdf"
   },
@@ -2183,7 +2183,7 @@
     "no": "No.2021-56",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "風疹ウイルス抗体（LA）",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-56.pdf"
   },
@@ -2192,7 +2192,7 @@
     "no": "No.2021-55",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "抗カルジオリピン抗体 IgG/EIA、抗カルジオリピン抗体 IgM/EIA、抗β2グリコプロテインⅠ抗体 IgG/CLEIA、抗β2グリコプロテインⅠ抗体 IgM/CLEIA",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-55.pdf"
   },
@@ -2201,7 +2201,7 @@
     "no": "No.2021-54",
     "title": "年末年始の休日緊急検査のお知らせ",
     "category": "業務日程",
-    "summary": "年末年始の休日緊急検査案内。",
+    "summary": "年末年始の休日期間中の緊急検査受託時間、実施項目のお知らせ",
     "keywords": "年末年始 休日 緊急検査",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-54.pdf"
   },
@@ -2210,7 +2210,7 @@
     "no": "No.2021-53",
     "title": "年末年始の業務日程および保存不適検体の年内最終受付日のお知らせ",
     "category": "業務日程",
-    "summary": "年末年始の業務日程および保存不適検体の年内最終受付日の案内。",
+    "summary": "年末年始の業務日程、保存不適検体の年内最終受付日および年内報告可能最終受付日・年内最終受付日のお知らせ",
     "keywords": "年末年始 業務日程 保存不適検体 受付日 休日",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-53.pdf"
   },
@@ -2219,7 +2219,7 @@
     "no": "No.2021-52",
     "title": "一時受託中止項目のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "免疫複合体（C1q）の一時受託中止",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-52.pdf"
   },
@@ -2228,7 +2228,7 @@
     "no": "No.2021-51",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "プロステートヘルスインデックス（phi）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-51.pdf"
   },
@@ -2237,7 +2237,7 @@
     "no": "No.2021-50",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "HIV-1/2抗体確認検査（イムノクロマト法）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-50.pdf"
   },
@@ -2246,7 +2246,7 @@
     "no": "No.2021-49",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "プロステートヘルスインデックス（phi）、minor BCR-ABL mRNA、ウイルス・細菌核酸多項目同時検出(SARS-CoV-2を含む。)",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-49.pdf"
   },
@@ -2255,7 +2255,7 @@
     "no": "No.2021-48",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "血中遊離メタネフリン分画",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-48.pdf"
   },
@@ -2264,7 +2264,7 @@
     "no": "No.2021-47",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "染色体ゲノムDNAのコピー数変化及びヘテロ接合性の喪失、抗カルジオリピンIgM抗体、抗β2グリコプロテインⅠIgG抗体、抗β2グリコプロテインⅠIgM抗体",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-47.pdf"
   },
@@ -2273,7 +2273,7 @@
     "no": "No.2021-46",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "抗リン脂質抗体検査パネル（APS検査パネル）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-46.pdf"
   },
@@ -2282,7 +2282,7 @@
     "no": "No.2021-45",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "特異的IgE Asp f1（アスペルギルス由来）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-45.pdf"
   },
@@ -2291,7 +2291,7 @@
     "no": "No.2021-44",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "インフルエンザウイルス抗体（HI法）の使用抗原株の変更",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-44.pdf"
   },
@@ -2300,7 +2300,7 @@
     "no": "No.2021-43",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "特異的IgG 鳥",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-43.pdf"
   },
@@ -2309,7 +2309,7 @@
     "no": "No.2021-42",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "組織因子経路インヒビター2（TFPI2）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-42.pdf"
   },
@@ -2318,7 +2318,7 @@
     "no": "No.2021-41",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "固形癌におけるマイクロサテライト不安定性検査、血中微生物検査、抗P/Q型電位依存性カルシウムチャネル抗体、濾胞性リンパ腫におけるEZH2遺伝子検査",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-41.pdf"
   },
@@ -2327,7 +2327,7 @@
     "no": "No.2021-40",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "L-ドーパ の変更",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-40.pdf"
   },
@@ -2336,7 +2336,7 @@
     "no": "No.2021-39",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "sFlt-1/PlGF比",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-39.pdf"
   },
@@ -2345,7 +2345,7 @@
     "no": "No.2021-38",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "がんゲノムプロファイリング検査（FoundationOne Liquid CDx がんゲノムプロファイル） 他",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-38.pdf"
   },
@@ -2354,7 +2354,7 @@
     "no": "No.2021-37",
     "title": "検査受託再開のお知らせ",
     "category": "新規受託",
-    "summary": "受託再開項目のお知らせ。",
+    "summary": "高感度インターロイキン-1β（高感度IL-1β）の受託再開",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-37.pdf"
   },
@@ -2363,7 +2363,7 @@
     "no": "No.2021-36",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "NTX-尿/CLEIA（1型コラーゲン架橋N-テロペプチド）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-36.pdf"
   },
@@ -2372,7 +2372,7 @@
     "no": "No.2021-35",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "Ⅳ型コラーゲン・7S/CLEIA",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-35.pdf"
   },
@@ -2381,7 +2381,7 @@
     "no": "No.2021-34",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "レプチン/EIA",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-34.pdf"
   },
@@ -2390,7 +2390,7 @@
     "no": "No.2021-33",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "プロプラノロール、ピルシカイニド、TARCの変更",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-33.pdf"
   },
@@ -2399,7 +2399,7 @@
     "no": "No.2021-32",
     "title": "受託中止項目のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "レプチン、TSHレセプター(受容体)抗体（第1世代）（TRAb，TBII）の中止",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-32.pdf"
   },
@@ -2408,7 +2408,7 @@
     "no": "No.2021-31",
     "title": "一時受託中止項目のお知らせ",
     "category": "受託中止",
-    "summary": "一時受託中止項目のお知らせ。",
+    "summary": "高感度インターロイキン-1β（高感度IL-1β）の一時受託中止",
     "keywords": "一時",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-31.pdf"
   },
@@ -2417,7 +2417,7 @@
     "no": "No.2021-30",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "インターロイキン-6（IL-6）〈CLIA法〉",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-30.pdf"
   },
@@ -2426,7 +2426,7 @@
     "no": "No.2021-29",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "sFlt-1/PlGF比、赤痢アメーバ抗原定性、FGFR2融合遺伝子検査",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-29.pdf"
   },
@@ -2435,7 +2435,7 @@
     "no": "No.2021-28",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "TARC（CCL17）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-28.pdf"
   },
@@ -2444,7 +2444,7 @@
     "no": "No.2021-27",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "TARC",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-27.pdf"
   },
@@ -2453,7 +2453,7 @@
     "no": "No.2021-26",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "アディポネクチン、抗内因子抗体 等の変更",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-26.pdf"
   },
@@ -2462,7 +2462,7 @@
     "no": "No.2021-25",
     "title": "祝日変更に伴う弊社業務日程について",
     "category": "業務日程",
-    "summary": "祝日変更に伴う業務日程案内。",
+    "summary": "7月・8月・10月の祝日変更に伴う弊社業務日程",
     "keywords": "祝日 業務日程",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-25.pdf"
   },
@@ -2471,7 +2471,7 @@
     "no": "No.2021-24",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "SARS-CoV-2・インフルエンザウイルス抗原同時検出、鳥特異的IgG抗体、レプチン、血管内皮増殖因子（VEGF）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-24.pdf"
   },
@@ -2480,7 +2480,7 @@
     "no": "No.2021-23",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "百日咳菌抗原定性",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-23.pdf"
   },
@@ -2489,7 +2489,7 @@
     "no": "No.2021-22",
     "title": "検査内容変更のお知らせ",
     "category": "内容変更",
-    "summary": "検査内容の変更。",
+    "summary": "TSHレセプター(受容体)抗体（第3世代）の変更",
     "keywords": "測定方法 試薬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-22.pdf"
   },
@@ -2498,7 +2498,7 @@
     "no": "No.2021-21",
     "title": "受託中止項目のお知らせ",
     "category": "受託中止",
-    "summary": "受託中止項目のお知らせ。",
+    "summary": "抗横紋筋抗体",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-21.pdf"
   },
@@ -2507,7 +2507,7 @@
     "no": "No.2021-20",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "sd LDL-C（small dense LDLコレステロール）",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-20.pdf"
   },
@@ -2516,7 +2516,7 @@
     "no": "No.2021-19",
     "title": "検査実施料に関するお知らせ",
     "category": "実施料",
-    "summary": "検査実施料の変更。",
+    "summary": "SARS-CoV-2抗原検出、SARS-CoV-2核酸検出、組織因子経路インヒビター2（TFPI2）",
     "keywords": "診療報酬",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-19.pdf"
   },
@@ -2525,7 +2525,7 @@
     "no": "No.2021-18",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "新型コロナウイルス抗体定量/ECLIA 健診、新型コロナウイルス抗体定量/ECLIA 臨床",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-18.pdf"
   },
@@ -2534,7 +2534,7 @@
     "no": "No.2021-17",
     "title": "新規受託項目のお知らせ",
     "category": "新規受託",
-    "summary": "新規受託開始項目のお知らせ。",
+    "summary": "新型コロナウイルス抗体IgG定量 健診、新型コロナウイルス抗体IgG定量 臨床",
     "keywords": "",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-17.pdf"
   }
