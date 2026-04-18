@@ -82,7 +82,6 @@ def search():
             continue
         if keywords:
             haystack = normalize(" ".join([
-                item.get("date", ""),
                 item.get("title", ""),
                 item.get("summary", ""),
                 item.get("keywords", ""),
