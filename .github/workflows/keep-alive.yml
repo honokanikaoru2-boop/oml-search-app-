@@ -1,0 +1,12 @@
+name: サーバー常時起動
+
+on:
+  schedule:
+    - cron: '*/14 * * * *'  # 14分ごと
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: サーバーを起こす
+        run: curl -s -o /dev/null https://oml-search-app.onrender.com/login
