@@ -71,8 +71,8 @@ def detect_category(title):
         return "実施料"
     if re.search(r"容器変更|採血容器", title):
         return "容器変更"
-    if re.search(r"業務日程|年末年始|祝日|休日", title):
-        return "業務日程"
+    if re.search(r"業務日程|受託日程|年末年始|祝日|休日|日程", title):
+        return "受託日程"
     return "その他"
 
 
