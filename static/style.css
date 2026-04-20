@@ -216,8 +216,12 @@ mark {
   font-size: 15px;
 }
 
+.sp-only { display: none; }
+
 /* ── Responsive ── */
 @media (max-width: 600px) {
+  .pc-only { display: none; }
+  .sp-only { display: inline; }
   .card { flex-wrap: wrap; }
   .card-meta { min-width: auto; display: flex; gap: 8px; align-items: center; }
   .card-action { width: 100%; }
