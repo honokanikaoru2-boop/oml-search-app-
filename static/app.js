@@ -1,4 +1,4 @@
-const CATEGORIES = ["all", "新規受託", "受託中止", "内容変更", "実施料", "容器変更", "受託日程", "その他"];
+const CATEGORIES = ["all", "新規受託", "受託中止", "受託再開", "受託日程", "内容変更", "容器変更", "実施料", "その他"];
 const CATEGORY_LABELS = { all: "すべて" };
 
 let currentCategory = "all";

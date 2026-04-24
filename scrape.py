@@ -61,7 +61,9 @@ class OMLParser(HTMLParser):
 
 
 def detect_category(title):
-    if re.search(r"新規受託|受託再開", title):
+    if re.search(r"受託再開", title):
+        return "受託再開"
+    if re.search(r"新規受託", title):
         return "新規受託"
     if re.search(r"受託中止|一時中止", title):
         return "受託中止"
