@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026.08.17",
+    "no": "No.2026-34",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "アミノ酸分析",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/08/info2026-34.pdf"
+  },
+  {
+    "date": "2026.08.14",
+    "no": "No.2026-33",
+    "title": "検査内容変更のお知らせ",
+    "category": "内容変更",
+    "summary": "ホモシステイン、抗リン脂質抗体検査パネル（APS検査パネル）",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/08/info2026-33.pdf"
+  },
+  {
+    "date": "2026.08.14",
+    "no": "No.2026-32",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "尿中シュウ酸、アルドラーゼ、イオン化カルシウム、膵グルカゴン/EIA　他",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/08/info2026-32.pdf"
+  },
+  {
     "date": "2026.08.08",
     "no": "No.2026-31",
     "title": "検査一時受託中止のお知らせ",
