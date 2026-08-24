@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026.08.24",
+    "no": "No.2026-37",
+    "title": "検査受託中止のお知らせ",
+    "category": "受託中止",
+    "summary": "アンモニア",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/08/info2026-37.pdf"
+  },
+  {
+    "date": "2026.08.21",
+    "no": "No.2026-36",
+    "title": "長期保存不適項目のシルバーウィーク前後の 受託日程に関するお知らせ",
+    "category": "受託日程",
+    "summary": "長期保存不適項目のシルバーウィーク前後の受託日程に関するお知らせ",
+    "keywords": "",
+    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2026/08/info2026-36.pdf"
+  },
+  {
     "date": "2026.08.17",
     "no": "No.2026-35",
     "title": "新規受託項目のお知らせ",
@@ -2564,32 +2582,5 @@
     "summary": "高感度インターロイキン-1β（高感度IL-1β）の受託再開",
     "keywords": "受託再開",
     "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-37.pdf"
-  },
-  {
-    "date": "2021.08.25",
-    "no": "No.2021-36",
-    "title": "新規受託項目のお知らせ",
-    "category": "新規受託",
-    "summary": "NTX-尿/CLEIA（1型コラーゲン架橋N-テロペプチド）",
-    "keywords": "",
-    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-36.pdf"
-  },
-  {
-    "date": "2021.08.25",
-    "no": "No.2021-35",
-    "title": "新規受託項目のお知らせ",
-    "category": "新規受託",
-    "summary": "Ⅳ型コラーゲン・7S/CLEIA",
-    "keywords": "",
-    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-35.pdf"
-  },
-  {
-    "date": "2021.08.25",
-    "no": "No.2021-34",
-    "title": "新規受託項目のお知らせ",
-    "category": "新規受託",
-    "summary": "レプチン/EIA",
-    "keywords": "",
-    "pdf": "https://www.oml-inc.jp/wp-content/uploads/2022/05/info2021-34.pdf"
   }
 ]
